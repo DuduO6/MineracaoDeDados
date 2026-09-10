@@ -10,8 +10,14 @@
     "neutral",
     "positive"
   ],
-  "topics_method": "multilabel_keyword_rules_v1",
-  "entities_method": "alias_dictionary_v1",
+  "topics_method": "multilabel_keyword_rules_plus_entities_v2",
+  "entities_method": "match_scoped_alias_dictionary_v2",
+  "entity_alias_confidences": [
+    "high",
+    "medium"
+  ],
+  "entity_aliases_path": "data/reference/classicos_atletico_cruzeiro_entidades/entity_aliases.csv",
+  "match_people_path": "data/reference/classicos_atletico_cruzeiro_entidades/match_people.csv",
   "limitations": [
     "ironia e sarcasmo",
     "domínio YouTube diferente do Twitter",

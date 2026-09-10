@@ -2,33 +2,33 @@ word,frequency,outcome,period
 cruzeiro,34,Atlético-MG venceu,Pré-jogo
 galo,19,Atlético-MG venceu,Pré-jogo
 cima,8,Atlético-MG venceu,Pré-jogo
-isso,8,Atlético-MG venceu,Pré-jogo
 cabuloso,7,Atlético-MG venceu,Pré-jogo
 jogar,7,Atlético-MG venceu,Pré-jogo
 mineiro,7,Atlético-MG venceu,Pré-jogo
 atlético,7,Atlético-MG venceu,Pré-jogo
 bola,6,Atlético-MG venceu,Pré-jogo
 ganhar,6,Atlético-MG venceu,Pré-jogo
-cara,6,Atlético-MG venceu,Pré-jogo
 time,6,Atlético-MG venceu,Pré-jogo
 anos,6,Atlético-MG venceu,Pré-jogo
-nem,6,Atlético-MG venceu,Pré-jogo
 jogadores,6,Atlético-MG venceu,Pré-jogo
+ganhou,6,Atlético-MG venceu,Pré-jogo
+todos,5,Atlético-MG venceu,Pré-jogo
+frangas,5,Atlético-MG venceu,Pré-jogo
 cruzeiro,2017,Atlético-MG venceu,Pós-jogo
 galo,1540,Atlético-MG venceu,Pós-jogo
 hulk,1271,Atlético-MG venceu,Pós-jogo
-cara,999,Atlético-MG venceu,Pós-jogo
 jogo,927,Atlético-MG venceu,Pós-jogo
 time,879,Atlético-MG venceu,Pós-jogo
 lyanco,678,Atlético-MG venceu,Pós-jogo
-isso,649,Atlético-MG venceu,Pós-jogo
 gol,616,Atlético-MG venceu,Pós-jogo
 atlético,602,Atlético-MG venceu,Pós-jogo
-nem,594,Atlético-MG venceu,Pós-jogo
-jorge,577,Atlético-MG venceu,Pós-jogo
 nada,539,Atlético-MG venceu,Pós-jogo
-kaio,515,Atlético-MG venceu,Pós-jogo
 pro,501,Atlético-MG venceu,Pós-jogo
+flamengo,485,Atlético-MG venceu,Pós-jogo
+jogador,480,Atlético-MG venceu,Pós-jogo
+maior,478,Atlético-MG venceu,Pós-jogo
+futebol,476,Atlético-MG venceu,Pós-jogo
+sempre,453,Atlético-MG venceu,Pós-jogo
 melhor,28,Cruzeiro venceu,Pré-jogo
 clubismo,17,Cruzeiro venceu,Pré-jogo
 lyanco,17,Cruzeiro venceu,Pré-jogo
@@ -40,25 +40,25 @@ jardim,8,Cruzeiro venceu,Pré-jogo
 concordo,8,Cruzeiro venceu,Pré-jogo
 jogo,7,Cruzeiro venceu,Pré-jogo
 sim,6,Cruzeiro venceu,Pré-jogo
-kkkk,6,Cruzeiro venceu,Pré-jogo
 seleção,6,Cruzeiro venceu,Pré-jogo
-kkkkk,6,Cruzeiro venceu,Pré-jogo
 clubista,6,Cruzeiro venceu,Pré-jogo
+galo,5,Cruzeiro venceu,Pré-jogo
+acho,5,Cruzeiro venceu,Pré-jogo
 futebol,2936,Cruzeiro venceu,Pós-jogo
-isso,2217,Cruzeiro venceu,Pós-jogo
 hulk,2069,Cruzeiro venceu,Pós-jogo
 cruzeiro,2051,Cruzeiro venceu,Pós-jogo
 briga,1832,Cruzeiro venceu,Pós-jogo
 jogo,1513,Cruzeiro venceu,Pós-jogo
-cara,1417,Cruzeiro venceu,Pós-jogo
 goleiro,1136,Cruzeiro venceu,Pós-jogo
 atlético,995,Cruzeiro venceu,Pós-jogo
-kkkk,915,Cruzeiro venceu,Pós-jogo
 melhor,906,Cruzeiro venceu,Pós-jogo
 raiz,873,Cruzeiro venceu,Pós-jogo
 ver,867,Cruzeiro venceu,Pós-jogo
-kkkkk,819,Cruzeiro venceu,Pós-jogo
 lyanco,819,Cruzeiro venceu,Pós-jogo
+time,809,Cruzeiro venceu,Pós-jogo
+bom,782,Cruzeiro venceu,Pós-jogo
+galo,781,Cruzeiro venceu,Pós-jogo
+tudo,748,Cruzeiro venceu,Pós-jogo
 cruzeiro,36,Empate,Pré-jogo
 galo,27,Empate,Pré-jogo
 atlético,14,Empate,Pré-jogo
@@ -75,17 +75,17 @@ time,6,Empate,Pré-jogo
 juntos,6,Empate,Pré-jogo
 gol,6,Empate,Pré-jogo
 cruzeiro,941,Empate,Pós-jogo
-jorge,832,Empate,Pós-jogo
-kaio,813,Empate,Pós-jogo
-cara,701,Empate,Pós-jogo
+Kaio Jorge,692,Empate,Pós-jogo
 jogo,665,Empate,Pós-jogo
-isso,632,Empate,Pós-jogo
 time,471,Empate,Pós-jogo
 galo,448,Empate,Pós-jogo
 futebol,441,Empate,Pós-jogo
 jogador,427,Empate,Pós-jogo
 juiz,401,Empate,Pós-jogo
 atlético,398,Empate,Pós-jogo
-nem,376,Empate,Pós-jogo
 mão,364,Empate,Pós-jogo
-ter,327,Empate,Pós-jogo
+era,317,Empate,Pós-jogo
+lance,310,Empate,Pós-jogo
+nada,297,Empate,Pós-jogo
+arbitragem,281,Empate,Pós-jogo
+gol,278,Empate,Pós-jogo

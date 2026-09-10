@@ -1,0 +1,287 @@
+match_id,outcome,period_label,entity_id,entity,entity_type,role,team,mentions,context_comments,mentions_per_1000_comments
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,coach_cuca,Cuca,coach,head_coach,Atlético-MG,19,4972,3.8213998390989543
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,management_alexandre_mattos,Alexandre Mattos,management,football_ceo,Cruzeiro,3,4972,0.6033789219629928
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,20,4972,4.022526146419952
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_alan_franco,Alan Franco,player,player,Atlético-MG,1,4972,0.2011263073209976
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_cassio,Cássio,player,player,Cruzeiro,457,4972,91.9147224456959
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_deyverson,Deyverson,player,player,Atlético-MG,2,4972,0.4022526146419952
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_dudu,Dudu,player,player,Cruzeiro,202,4972,40.627514078841514
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_eduardo,Eduardo,player,player,Cruzeiro,1,4972,0.2011263073209976
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,5,4972,1.005631536604988
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,149,4972,29.967819790828642
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_gabriel_barbosa,Gabriel Barbosa,player,player,Cruzeiro,534,4972,107.40144810941271
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,2,4972,0.4022526146419952
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,10,4972,2.011263073209976
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_hulk,Hulk,player,player,Atlético-MG,555,4972,111.62510056315367
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_jonathan_jesus,Jonathan Jesus,player,player,Cruzeiro,2,4972,0.4022526146419952
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_junior_alonso,Júnior Alonso,player,player,Atlético-MG,2,4972,0.4022526146419952
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_lucas_romero,Lucas Romero,player,player,Cruzeiro,1,4972,0.2011263073209976
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_lyanco,Lyanco,player,player,Atlético-MG,123,4972,24.738535800482705
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_marquinhos,Marquinhos,player,player,Cruzeiro,2,4972,0.4022526146419952
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_matheus_henrique,Matheus Henrique,player,player,Cruzeiro,1,4972,0.2011263073209976
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,9,4972,1.8101367658889782
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_natanael,Natanael,player,player,Atlético-MG,8,4972,1.6090104585679808
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_rubens,Rubens,player,player,Atlético-MG,3,4972,0.6033789219629928
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_tomas_cuello,Tomás Cuello,player,player,Atlético-MG,22,4972,4.424778761061947
+2025-02-09-cru-cam,Atlético-MG venceu,Pós-jogo,player_william,William,player,player,Cruzeiro,1,4972,0.2011263073209976
+2025-05-18-cru-cam,Empate,Pré-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,1,53,18.867924528301888
+2025-05-18-cru-cam,Empate,Pré-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,1,53,18.867924528301888
+2025-05-18-cru-cam,Empate,Pré-jogo,player_hulk,Hulk,player,player,Atlético-MG,2,53,37.735849056603776
+2025-05-18-cru-cam,Empate,Pré-jogo,player_lyanco,Lyanco,player,player,Atlético-MG,1,53,18.867924528301888
+2025-05-18-cru-cam,Empate,Pré-jogo,player_rony,Rony,player,player,Atlético-MG,2,53,37.735849056603776
+2025-05-18-cru-cam,Empate,Pré-jogo,player_rubens,Rubens,player,player,Atlético-MG,2,53,37.735849056603776
+2025-05-18-cru-cam,Empate,Pós-jogo,coach_cuca,Cuca,coach,head_coach,Atlético-MG,6,1316,4.5592705167173255
+2025-05-18-cru-cam,Empate,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,2,1316,1.5197568389057752
+2025-05-18-cru-cam,Empate,Pós-jogo,player_cassio,Cássio,player,player,Cruzeiro,6,1316,4.5592705167173255
+2025-05-18-cru-cam,Empate,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,5,1316,3.7993920972644375
+2025-05-18-cru-cam,Empate,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,11,1316,8.358662613981762
+2025-05-18-cru-cam,Empate,Pós-jogo,player_fagner,Fagner,player,player,Cruzeiro,13,1316,9.878419452887538
+2025-05-18-cru-cam,Empate,Pós-jogo,player_gabriel_barbosa,Gabriel Barbosa,player,player,Cruzeiro,7,1316,5.319148936170213
+2025-05-18-cru-cam,Empate,Pós-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,3,1316,2.2796352583586628
+2025-05-18-cru-cam,Empate,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,2,1316,1.5197568389057752
+2025-05-18-cru-cam,Empate,Pós-jogo,player_hulk,Hulk,player,player,Atlético-MG,59,1316,44.83282674772037
+2025-05-18-cru-cam,Empate,Pós-jogo,player_junior_alonso,Júnior Alonso,player,player,Atlético-MG,11,1316,8.358662613981762
+2025-05-18-cru-cam,Empate,Pós-jogo,player_junior_santos,Júnior Santos,player,player,Atlético-MG,3,1316,2.2796352583586628
+2025-05-18-cru-cam,Empate,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,4,1316,3.0395136778115504
+2025-05-18-cru-cam,Empate,Pós-jogo,player_lucas_silva,Lucas Silva,player,player,Cruzeiro,1,1316,0.7598784194528876
+2025-05-18-cru-cam,Empate,Pós-jogo,player_lyanco,Lyanco,player,player,Atlético-MG,12,1316,9.118541033434651
+2025-05-18-cru-cam,Empate,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,2,1316,1.5197568389057752
+2025-05-18-cru-cam,Empate,Pós-jogo,player_rony,Rony,player,player,Atlético-MG,9,1316,6.838905775075988
+2025-05-18-cru-cam,Empate,Pós-jogo,player_rubens,Rubens,player,player,Atlético-MG,3,1316,2.2796352583586628
+2025-05-18-cru-cam,Empate,Pós-jogo,player_wanderson,Wanderson,player,player,Cruzeiro,1,1316,0.7598784194528876
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,coach_cuca,Cuca,coach,head_coach,Atlético-MG,11,120,91.66666666666667
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,coach_leonardo_jardim,Leonardo Jardim,coach,head_coach,Cruzeiro,8,120,66.66666666666667
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_alan_franco,Alan Franco,player,player,Atlético-MG,1,120,8.333333333333334
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_cassio,Cássio,player,player,Cruzeiro,2,120,16.666666666666668
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_everson,Everson,player,player,Atlético-MG,1,120,8.333333333333334
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,8,120,66.66666666666667
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,7,120,58.333333333333336
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,1,120,8.333333333333334
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_hulk,Hulk,player,player,Atlético-MG,4,120,33.333333333333336
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,3,120,25.0
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_lucas_silva,Lucas Silva,player,player,Cruzeiro,2,120,16.666666666666668
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,2,120,16.666666666666668
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_tomas_cuello,Tomás Cuello,player,player,Atlético-MG,4,120,33.333333333333336
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_wanderson,Wanderson,player,player,Cruzeiro,3,120,25.0
+2025-08-27-cam-cru,Cruzeiro venceu,Pré-jogo,player_william,William,player,player,Cruzeiro,1,120,8.333333333333334
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,coach_cuca,Cuca,coach,head_coach,Atlético-MG,114,3788,30.095036958817317
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,coach_leonardo_jardim,Leonardo Jardim,coach,head_coach,Cruzeiro,26,3788,6.863780359028511
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,management_paulo_pelaipe,Paulo Pelaipe,management,executive_football_director,Cruzeiro,4,3788,1.0559662090813093
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,2,3788,0.5279831045406547
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_alan_franco,Alan Franco,player,player,Atlético-MG,2,3788,0.5279831045406547
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_alexsander,Alexsander,player,player,Atlético-MG,2,3788,0.5279831045406547
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_biel,Biel,player,player,Atlético-MG,1,3788,0.26399155227032733
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_cassio,Cássio,player,player,Cruzeiro,18,3788,4.7518479408658925
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_dudu,Dudu,player,player,Atlético-MG,52,3788,13.727560718057022
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_eduardo,Eduardo,player,player,Cruzeiro,2,3788,0.5279831045406547
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,7,3788,1.8479408658922913
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,98,3788,25.87117212249208
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_gabriel_barbosa,Gabriel Barbosa,player,player,Cruzeiro,51,3788,13.463569165786694
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,11,3788,2.903907074973601
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,7,3788,1.8479408658922913
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_hulk,Hulk,player,player,Atlético-MG,214,3788,56.49419218585005
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_junior_alonso,Júnior Alonso,player,player,Atlético-MG,5,3788,1.3199577613516367
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,46,3788,12.143611404435058
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_lucas_romero,Lucas Romero,player,player,Cruzeiro,2,3788,0.5279831045406547
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_lucas_silva,Lucas Silva,player,player,Cruzeiro,2,3788,0.5279831045406547
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,5,3788,1.3199577613516367
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_natanael,Natanael,player,player,Atlético-MG,1,3788,0.26399155227032733
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_rony,Rony,player,player,Atlético-MG,4,3788,1.0559662090813093
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_tomas_cuello,Tomás Cuello,player,player,Atlético-MG,5,3788,1.3199577613516367
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_vitor_hugo,Vitor Hugo,player,player,Atlético-MG,2,3788,0.5279831045406547
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_wanderson,Wanderson,player,player,Cruzeiro,5,3788,1.3199577613516367
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,player_william,William,player,player,Cruzeiro,1,3788,0.26399155227032733
+2025-08-27-cam-cru,Cruzeiro venceu,Pós-jogo,technical_staff_cuquinha,Cuquinha,technical_staff,assistant_coach,Atlético-MG,2,3788,0.5279831045406547
+2025-09-11-cru-cam,Cruzeiro venceu,Pré-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,1,6,166.66666666666666
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,coach_jorge_sampaoli,Jorge Sampaoli,coach,head_coach,Atlético-MG,11,4558,2.413339183852567
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,coach_leonardo_jardim,Leonardo Jardim,coach,head_coach,Cruzeiro,33,4558,7.240017551557701
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,management_pedro_junio,Pedro Junio,management,saf_vice_president_football_lead,Cruzeiro,1,4558,0.21939447125932426
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,138,4558,30.27643703378675
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_cassio,Cássio,player,player,Cruzeiro,21,4558,4.60728389644581
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_christian,Christian,player,player,Cruzeiro,4,4558,0.8775778850372971
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,5,4558,1.0969723562966214
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,138,4558,30.27643703378675
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_fausto_vera,Fausto Vera,player,player,Atlético-MG,1,4558,0.21939447125932426
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_gabriel_barbosa,Gabriel Barbosa,player,player,Cruzeiro,58,4558,12.724879333040807
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_gabriel_menino,Gabriel Menino,player,player,Atlético-MG,1,4558,0.21939447125932426
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,58,4558,12.724879333040807
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,62,4558,13.602457218078104
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_hulk,Hulk,player,player,Atlético-MG,133,4558,29.179464677490127
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_igor_gomes,Igor Gomes,player,player,Atlético-MG,2,4558,0.43878894251864853
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_junior_alonso,Júnior Alonso,player,player,Atlético-MG,1,4558,0.21939447125932426
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,93,4558,20.403685827117158
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_lucas_romero,Lucas Romero,player,player,Cruzeiro,9,4558,1.9745502413339184
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_lucas_silva,Lucas Silva,player,player,Cruzeiro,52,4558,11.408512505484861
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_luis_sinisterra,Luis Sinisterra,player,player,Cruzeiro,3,4558,0.6581834137779728
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_lyanco,Lyanco,player,player,Atlético-MG,77,4558,16.89337428696797
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_matheus_henrique,Matheus Henrique,player,player,Cruzeiro,2,4558,0.43878894251864853
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,6,4558,1.3163668275559457
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_rony,Rony,player,player,Atlético-MG,6,4558,1.3163668275559457
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_wanderson,Wanderson,player,player,Cruzeiro,8,4558,1.7551557700745941
+2025-09-11-cru-cam,Cruzeiro venceu,Pós-jogo,player_william,William,player,player,Cruzeiro,3,4558,0.6581834137779728
+2025-10-15-cam-cru,Empate,Pré-jogo,coach_leonardo_jardim,Leonardo Jardim,coach,head_coach,Cruzeiro,1,23,43.47826086956522
+2025-10-15-cam-cru,Empate,Pré-jogo,player_dudu,Dudu,player,player,Atlético-MG,1,23,43.47826086956522
+2025-10-15-cam-cru,Empate,Pós-jogo,coach_jorge_sampaoli,Jorge Sampaoli,coach,head_coach,Atlético-MG,4,3849,1.0392309690828787
+2025-10-15-cam-cru,Empate,Pós-jogo,coach_leonardo_jardim,Leonardo Jardim,coach,head_coach,Cruzeiro,5,3849,1.2990387113535984
+2025-10-15-cam-cru,Empate,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,7,3849,1.8186541958950377
+2025-10-15-cam-cru,Empate,Pós-jogo,player_bernard,Bernard,player,player,Atlético-MG,8,3849,2.0784619381657574
+2025-10-15-cam-cru,Empate,Pós-jogo,player_biel,Biel,player,player,Atlético-MG,5,3849,1.2990387113535984
+2025-10-15-cam-cru,Empate,Pós-jogo,player_caio_paulista,Caio Paulista,player,player,Atlético-MG,3,3849,0.779423226812159
+2025-10-15-cam-cru,Empate,Pós-jogo,player_cassio,Cássio,player,player,Cruzeiro,16,3849,4.156923876331515
+2025-10-15-cam-cru,Empate,Pós-jogo,player_dudu,Dudu,player,player,Atlético-MG,86,3849,22.34346583528189
+2025-10-15-cam-cru,Empate,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,5,3849,1.2990387113535984
+2025-10-15-cam-cru,Empate,Pós-jogo,player_fausto_vera,Fausto Vera,player,player,Atlético-MG,1,3849,0.2598077422707197
+2025-10-15-cam-cru,Empate,Pós-jogo,player_gabriel_barbosa,Gabriel Barbosa,player,player,Cruzeiro,14,3849,3.6373083917900755
+2025-10-15-cam-cru,Empate,Pós-jogo,player_gabriel_menino,Gabriel Menino,player,player,Atlético-MG,12,3849,3.117692907248636
+2025-10-15-cam-cru,Empate,Pós-jogo,player_guilherme_arana,Guilherme Arana,player,player,Atlético-MG,4,3849,1.0392309690828787
+2025-10-15-cam-cru,Empate,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,12,3849,3.117692907248636
+2025-10-15-cam-cru,Empate,Pós-jogo,player_hulk,Hulk,player,player,Atlético-MG,65,3849,16.88750324759678
+2025-10-15-cam-cru,Empate,Pós-jogo,player_ivan_roman,Iván Román,player,player,Atlético-MG,22,3849,5.7157703299558325
+2025-10-15-cam-cru,Empate,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,391,3849,101.58482722785139
+2025-10-15-cam-cru,Empate,Pós-jogo,player_keny_arroyo,Keny Arroyo,player,player,Cruzeiro,2,3849,0.5196154845414394
+2025-10-15-cam-cru,Empate,Pós-jogo,player_leo_aragao,Léo Aragão,player,player,Cruzeiro,6,3849,1.558846453624318
+2025-10-15-cam-cru,Empate,Pós-jogo,player_lucas_silva,Lucas Silva,player,player,Cruzeiro,6,3849,1.558846453624318
+2025-10-15-cam-cru,Empate,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,12,3849,3.117692907248636
+2025-10-15-cam-cru,Empate,Pós-jogo,player_natanael,Natanael,player,player,Atlético-MG,1,3849,0.2598077422707197
+2025-10-15-cam-cru,Empate,Pós-jogo,player_rony,Rony,player,player,Atlético-MG,21,3849,5.455962587685113
+2025-10-15-cam-cru,Empate,Pós-jogo,player_saravia,Saravia,player,player,Atlético-MG,3,3849,0.779423226812159
+2025-10-15-cam-cru,Empate,Pós-jogo,player_wanderson,Wanderson,player,player,Cruzeiro,2,3849,0.5196154845414394
+2025-10-15-cam-cru,Empate,Pós-jogo,player_william,William,player,player,Cruzeiro,6,3849,1.558846453624318
+2026-01-25-cam-cru,Atlético-MG venceu,Pré-jogo,coach_jorge_sampaoli,Jorge Sampaoli,coach,head_coach,Atlético-MG,1,52,19.23076923076923
+2026-01-25-cam-cru,Atlético-MG venceu,Pré-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,1,52,19.23076923076923
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,coach_jorge_sampaoli,Jorge Sampaoli,coach,head_coach,Atlético-MG,15,3185,4.7095761381475665
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,coach_tite,Tite,coach,head_coach,Cruzeiro,87,3185,27.315541601255887
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,10,3185,3.1397174254317113
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_alan_franco,Alan Franco,player,player,Atlético-MG,4,3185,1.2558869701726845
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_alexsander,Alexsander,player,player,Atlético-MG,1,3185,0.3139717425431711
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_bernard,Bernard,player,player,Atlético-MG,70,3185,21.978021978021978
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_cassio,Cássio,player,player,Cruzeiro,28,3185,8.791208791208792
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_christian,Christian,player,player,Cruzeiro,1,3185,0.3139717425431711
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_dudu,Dudu,player,player,Atlético-MG,48,3185,15.070643642072213
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,5,3185,1.5698587127158556
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,81,3185,25.43171114599686
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_gerson,Gerson,player,player,Cruzeiro,37,3185,11.616954474097332
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,19,3185,5.965463108320251
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_hulk,Hulk,player,player,Atlético-MG,535,3185,167.97488226059656
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_igor_gomes,Igor Gomes,player,player,Atlético-MG,4,3185,1.2558869701726845
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_jonathan_jesus,Jonathan Jesus,player,player,Cruzeiro,1,3185,0.3139717425431711
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_junior_alonso,Júnior Alonso,player,player,Atlético-MG,5,3185,1.5698587127158556
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,239,3185,75.03924646781789
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_keny_arroyo,Keny Arroyo,player,player,Cruzeiro,20,3185,6.279434850863423
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_lucas_romero,Lucas Romero,player,player,Cruzeiro,1,3185,0.3139717425431711
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_lucas_silva,Lucas Silva,player,player,Cruzeiro,7,3185,2.197802197802198
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,4,3185,1.2558869701726845
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_maycon,Maycon,player,player,Atlético-MG,12,3185,3.767660910518053
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_renan_lodi,Renan Lodi,player,player,Atlético-MG,5,3185,1.5698587127158556
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_tomas_cuello,Tomás Cuello,player,player,Atlético-MG,1,3185,0.3139717425431711
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_victor_hugo,Victor Hugo,player,player,Atlético-MG,1,3185,0.3139717425431711
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_wanderson,Wanderson,player,player,Cruzeiro,4,3185,1.2558869701726845
+2026-01-25-cam-cru,Atlético-MG venceu,Pós-jogo,player_william,William,player,player,Cruzeiro,7,3185,2.197802197802198
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,coach_eduardo_dominguez,Eduardo Domínguez,coach,head_coach,Atlético-MG,6,20204,0.2969708968521085
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,coach_tite,Tite,coach,head_coach,Cruzeiro,44,20204,2.1777865769154623
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,9,20204,0.44545634527816275
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_alan_franco,Alan Franco,player,player,Atlético-MG,3,20204,0.14848544842605424
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_alan_minda,Alan Minda,player,player,Atlético-MG,3,20204,0.14848544842605424
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_angelo_preciado,Ángelo Preciado,player,player,Atlético-MG,12,20204,0.593941793704217
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_bernard,Bernard,player,player,Atlético-MG,3,20204,0.14848544842605424
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_bruno_rodrigues,Bruno Rodrigues,player,player,Cruzeiro,8,20204,0.3959611958028113
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_cassio,Cássio,player,player,Cruzeiro,464,20204,22.965749356563055
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_christian,Christian,player,player,Cruzeiro,25,20204,1.2373787368837854
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_dudu,Dudu,player,player,Atlético-MG,95,20204,4.702039200158384
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,710,20204,35.141556127499506
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,23,20204,1.1383884379330826
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_gerson,Gerson,player,player,Cruzeiro,273,20204,13.512175806770937
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,10,20204,0.49495149475351413
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_hulk,Hulk,player,player,Atlético-MG,1539,20204,76.17303504256583
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_igor_gomes,Igor Gomes,player,player,Atlético-MG,3,20204,0.14848544842605424
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_kaiki_bruno,Kaiki Bruno,player,player,Cruzeiro,1,20204,0.04949514947535141
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,153,20204,7.5727578697287665
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_lucas_romero,Lucas Romero,player,player,Cruzeiro,56,20204,2.7717283706196794
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_lucas_silva,Lucas Silva,player,player,Cruzeiro,24,20204,1.187883587408434
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_lucas_villalba,Lucas Villalba,player,player,Cruzeiro,6,20204,0.2969708968521085
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_mamady_cisse,Mamady Cissé,player,player,Atlético-MG,4,20204,0.19798059790140565
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_mateo_cassierra,Mateo Cassierra,player,player,Atlético-MG,2,20204,0.09899029895070283
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_matheus_henrique,Matheus Henrique,player,player,Cruzeiro,11,20204,0.5444466442288656
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,13,20204,0.6434369431795685
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_natanael,Natanael,player,player,Atlético-MG,1,20204,0.04949514947535141
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_renan_lodi,Renan Lodi,player,player,Atlético-MG,16,20204,0.7919223916056226
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_ruan_tressoldi,Ruan Tressoldi,player,player,Atlético-MG,3,20204,0.14848544842605424
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_vitor_hugo,Vitor Hugo,player,player,Atlético-MG,2,20204,0.09899029895070283
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_wanderson,Wanderson,player,player,Cruzeiro,2,20204,0.09899029895070283
+2026-03-08-cru-cam,Cruzeiro venceu,Pós-jogo,player_william,William,player,player,Cruzeiro,1,20204,0.04949514947535141
+2026-05-02-cru-cam,Atlético-MG venceu,Pré-jogo,player_bernard,Bernard,player,player,Atlético-MG,1,66,15.151515151515152
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,coach_artur_jorge,Artur Jorge,coach,head_coach,Cruzeiro,2,2936,0.6811989100817438
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,4,2936,1.3623978201634876
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_alan_minda,Alan Minda,player,player,Atlético-MG,7,2936,2.3841961852861036
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_bernard,Bernard,player,player,Atlético-MG,4,2936,1.3623978201634876
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_bruno_rodrigues,Bruno Rodrigues,player,player,Cruzeiro,2,2936,0.6811989100817438
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_christian,Christian,player,player,Cruzeiro,2,2936,0.6811989100817438
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,3,2936,1.021798365122616
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,10,2936,3.4059945504087192
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_gerson,Gerson,player,player,Cruzeiro,16,2936,5.449591280653951
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_junior_alonso,Júnior Alonso,player,player,Atlético-MG,8,2936,2.7247956403269753
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_kaiki_bruno,Kaiki Bruno,player,player,Cruzeiro,1,2936,0.3405994550408719
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,23,2936,7.833787465940055
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_keny_arroyo,Keny Arroyo,player,player,Cruzeiro,8,2936,2.7247956403269753
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_lyanco,Lyanco,player,player,Atlético-MG,496,2936,168.93732970027247
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_mateo_cassierra,Mateo Cassierra,player,player,Atlético-MG,5,2936,1.7029972752043596
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,3,2936,1.021798365122616
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_maycon,Maycon,player,player,Atlético-MG,7,2936,2.3841961852861036
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_otavio,Otávio,player,player,Cruzeiro,3,2936,1.021798365122616
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_reinier,Reinier,player,player,Atlético-MG,1,2936,0.3405994550408719
+2026-05-02-cru-cam,Atlético-MG venceu,Pós-jogo,player_renan_lodi,Renan Lodi,player,player,Atlético-MG,33,2936,11.239782016348775
+2026-08-25-cru-cam,Empate,Pré-jogo,player_fred,Fred,player,player,Atlético-MG,2,81,24.691358024691358
+2026-08-25-cru-cam,Empate,Pós-jogo,coach_artur_jorge,Artur Jorge,coach,head_coach,Cruzeiro,5,2100,2.380952380952381
+2026-08-25-cru-cam,Empate,Pós-jogo,coach_eduardo_dominguez,Eduardo Domínguez,coach,head_coach,Atlético-MG,1,2100,0.47619047619047616
+2026-08-25-cru-cam,Empate,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,2,2100,0.9523809523809523
+2026-08-25-cru-cam,Empate,Pós-jogo,player_alan_franco,Alan Franco,player,player,Atlético-MG,2,2100,0.9523809523809523
+2026-08-25-cru-cam,Empate,Pós-jogo,player_alan_minda,Alan Minda,player,player,Atlético-MG,6,2100,2.857142857142857
+2026-08-25-cru-cam,Empate,Pós-jogo,player_angelo_preciado,Ángelo Preciado,player,player,Atlético-MG,2,2100,0.9523809523809523
+2026-08-25-cru-cam,Empate,Pós-jogo,player_bernard,Bernard,player,player,Atlético-MG,2,2100,0.9523809523809523
+2026-08-25-cru-cam,Empate,Pós-jogo,player_bruno_rodrigues,Bruno Rodrigues,player,player,Cruzeiro,49,2100,23.333333333333332
+2026-08-25-cru-cam,Empate,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,82,2100,39.04761904761905
+2026-08-25-cru-cam,Empate,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,4,2100,1.9047619047619047
+2026-08-25-cru-cam,Empate,Pós-jogo,player_fagner,Fagner,player,player,Cruzeiro,13,2100,6.190476190476191
+2026-08-25-cru-cam,Empate,Pós-jogo,player_fred,Fred,player,player,Atlético-MG,4,2100,1.9047619047619047
+2026-08-25-cru-cam,Empate,Pós-jogo,player_gerson,Gerson,player,player,Cruzeiro,11,2100,5.238095238095238
+2026-08-25-cru-cam,Empate,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,280,2100,133.33333333333334
+2026-08-25-cru-cam,Empate,Pós-jogo,player_keny_arroyo,Keny Arroyo,player,player,Cruzeiro,58,2100,27.61904761904762
+2026-08-25-cru-cam,Empate,Pós-jogo,player_mamady_cisse,Mamady Cissé,player,player,Atlético-MG,1,2100,0.47619047619047616
+2026-08-25-cru-cam,Empate,Pós-jogo,player_mateo_cassierra,Mateo Cassierra,player,player,Atlético-MG,2,2100,0.9523809523809523
+2026-08-25-cru-cam,Empate,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,6,2100,2.857142857142857
+2026-08-25-cru-cam,Empate,Pós-jogo,player_maycon,Maycon,player,player,Atlético-MG,1,2100,0.47619047619047616
+2026-08-25-cru-cam,Empate,Pós-jogo,player_natanael,Natanael,player,player,Atlético-MG,1,2100,0.47619047619047616
+2026-08-25-cru-cam,Empate,Pós-jogo,player_otavio,Otávio,player,player,Cruzeiro,7,2100,3.3333333333333335
+2026-08-25-cru-cam,Empate,Pós-jogo,player_renan_lodi,Renan Lodi,player,player,Atlético-MG,3,2100,1.4285714285714286
+2026-08-25-cru-cam,Empate,Pós-jogo,player_ruan_tressoldi,Ruan Tressoldi,player,player,Atlético-MG,4,2100,1.9047619047619047
+2026-08-25-cru-cam,Empate,Pós-jogo,player_tomas_cuello,Tomás Cuello,player,player,Atlético-MG,1,2100,0.47619047619047616
+2026-08-25-cru-cam,Empate,Pós-jogo,player_vitao,Vitão,player,player,Atlético-MG,3,2100,1.4285714285714286
+2026-08-25-cru-cam,Empate,Pós-jogo,player_vitor_hugo,Vitor Hugo,player,player,Atlético-MG,1,2100,0.47619047619047616
+2026-08-25-cru-cam,Empate,Pós-jogo,technical_staff_rodrigo_lasmar,Rodrigo Lasmar,technical_staff,doctor,Atlético-MG,1,2100,0.47619047619047616
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,coach_artur_jorge,Artur Jorge,coach,head_coach,Cruzeiro,22,3761,5.849508109545334
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,coach_eduardo_dominguez,Eduardo Domínguez,coach,head_coach,Atlético-MG,2,3761,0.5317734645041212
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,management_pedro_lourenco,Pedro Lourenço,management,saf_owner_president,Cruzeiro,18,3761,4.785961180537091
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_alan_franco,Alan Franco,player,player,Atlético-MG,1,3761,0.2658867322520606
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_alan_minda,Alan Minda,player,player,Atlético-MG,1,3761,0.2658867322520606
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_bernard,Bernard,player,player,Atlético-MG,24,3761,6.381281574049455
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_everson,Everson,player,player,Atlético-MG,6,3761,1.5953203935123637
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_fabricio_bruno,Fabrício Bruno,player,player,Cruzeiro,9,3761,2.3929805902685457
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_fagner,Fagner,player,player,Cruzeiro,3,3761,0.7976601967561818
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_fred,Fred,player,player,Atlético-MG,312,3761,82.95666046264292
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_gerson,Gerson,player,player,Cruzeiro,39,3761,10.369582557830364
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_gustavo_scarpa,Gustavo Scarpa,player,player,Atlético-MG,2,3761,0.5317734645041212
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_kaio_jorge,Kaio Jorge,player,player,Cruzeiro,176,3761,46.79606487636267
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_kaique_kenji,Kaique Kenji,player,player,Cruzeiro,2,3761,0.5317734645041212
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_keny_arroyo,Keny Arroyo,player,player,Cruzeiro,45,3761,11.964902951342728
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_kevin_castano,Kevin Castaño,player,player,Atlético-MG,2,3761,0.5317734645041212
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_lucas_romero,Lucas Romero,player,player,Cruzeiro,10,3761,2.658867322520606
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_mateo_cassierra,Mateo Cassierra,player,player,Atlético-MG,5,3761,1.329433661260303
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_matheus_pereira,Matheus Pereira,player,player,Cruzeiro,28,3761,7.444828503057697
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_natanael,Natanael,player,player,Atlético-MG,1,3761,0.2658867322520606
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_otavio,Otávio,player,player,Cruzeiro,17,3761,4.520074448285031
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_reinier,Reinier,player,player,Atlético-MG,7,3761,1.8612071257644243
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_renan_lodi,Renan Lodi,player,player,Atlético-MG,7,3761,1.8612071257644243
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_tomas_cuello,Tomás Cuello,player,player,Atlético-MG,11,3761,2.924754054772667
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_victor_hugo,Victor Hugo,player,player,Atlético-MG,15,3761,3.9883009837809094
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_vitao,Vitão,player,player,Atlético-MG,7,3761,1.8612071257644243
+2026-09-01-cam-cru,Atlético-MG venceu,Pós-jogo,player_vitor_hugo,Vitor Hugo,player,player,Atlético-MG,8,3761,2.127093858016485

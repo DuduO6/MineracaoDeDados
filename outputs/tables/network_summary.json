@@ -1,6 +1,7 @@
 {
   "nodes": 40372,
   "edges": 12179,
+  "density": 7.472430058527086e-06,
   "average_degree": 0.6033389477855939,
   "weak_components": 30880,
   "strong_components": 40364,

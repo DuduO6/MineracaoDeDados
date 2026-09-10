@@ -8,5 +8,5 @@ __pycache__/
 .coverage
 data/raw/*.tmp
 outputs/collection_summary.json.tmp
-venv
+venv/
 
