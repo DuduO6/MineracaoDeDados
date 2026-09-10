@@ -1,0 +1,215 @@
+﻿entity_id,canonical_name,alias,alias_confidence,alias_note
+coach_artur_jorge,Artur Jorge,artur jorge,high,canonical_lower
+coach_artur_jorge,Artur Jorge,arthur jorge,medium,common_alias
+coach_cuca,Cuca,cuca,medium,canonical_lower
+coach_eduardo_dominguez,Eduardo Domínguez,eduardo domínguez,high,canonical_lower
+coach_eduardo_dominguez,Eduardo Domínguez,eduardo dominguez,high,canonical_without_accents
+coach_eduardo_dominguez,Eduardo Domínguez,dominguez,high,common_alias
+coach_eduardo_dominguez,Eduardo Domínguez,domínguez,high,common_alias
+coach_jorge_sampaoli,Jorge Sampaoli,jorge sampaoli,high,canonical_lower
+coach_jorge_sampaoli,Jorge Sampaoli,sampaoli,high,common_alias
+coach_leonardo_jardim,Leonardo Jardim,leonardo jardim,high,canonical_lower
+coach_leonardo_jardim,Leonardo Jardim,jardim,medium,common_alias
+coach_tite,Tite,tite,high,canonical_lower
+coach_wesley_de_carvalho,Wesley de Carvalho,wesley de carvalho,high,canonical_lower
+management_alexandre_mattos,Alexandre Mattos,alexandre mattos,high,canonical_lower
+management_alexandre_mattos,Alexandre Mattos,mattos,medium,common_alias
+management_bruno_muzzi,Bruno Muzzi,bruno muzzi,high,canonical_lower
+management_bruno_muzzi,Bruno Muzzi,muzzi,high,common_alias
+management_bruno_spindel,Bruno Spindel,bruno spindel,high,canonical_lower
+management_bruno_spindel,Bruno Spindel,spindel,high,common_alias
+management_guilherme_alves,Guilherme Alves,guilherme alves,high,canonical_lower
+management_joaquim_pinto,Joaquim Pinto,joaquim pinto,high,canonical_lower
+management_paulo_bracks,Paulo Bracks,paulo bracks,high,canonical_lower
+management_paulo_bracks,Paulo Bracks,bracks,high,common_alias
+management_paulo_pelaipe,Paulo Pelaipe,paulo pelaipe,high,canonical_lower
+management_paulo_pelaipe,Paulo Pelaipe,pelaipe,high,common_alias
+management_pedro_daniel,Pedro Daniel,pedro daniel,high,canonical_lower
+management_pedro_junio,Pedro Junio,pedro junio,high,canonical_lower
+management_pedro_lourenco,Pedro Lourenço,pedro lourenço,high,canonical_lower
+management_pedro_lourenco,Pedro Lourenço,pedro lourenco,high,canonical_without_accents
+management_pedro_lourenco,Pedro Lourenço,pedrinho bh,high,common_alias
+management_pedro_lourenco,Pedro Lourenço,pedrinho,medium,common_alias
+management_rafael_menin,Rafael Menin,rafael menin,high,canonical_lower
+management_rodrigo_ramos,Rodrigo Ramos,rodrigo ramos,high,canonical_lower
+management_sergio_coelho,Sérgio Coelho,sérgio coelho,high,canonical_lower
+management_sergio_coelho,Sérgio Coelho,sergio coelho,high,canonical_without_accents
+management_victor_bagy,Victor Bagy,victor bagy,high,canonical_lower
+management_victor_bagy,Victor Bagy,são victor,high,common_alias
+management_victor_bagy,Victor Bagy,sao victor,high,common_alias
+player_alan_franco,Alan Franco,alan franco,high,canonical_lower
+player_alan_minda,Alan Minda,alan minda,high,canonical_lower
+player_alan_minda,Alan Minda,minda,high,common_alias
+player_alexsander,Alexsander,alexsander,high,canonical_lower
+player_bernard,Bernard,bernard,medium,canonical_lower
+player_biel,Biel,biel,medium,canonical_lower
+player_bolasie,Bolasie,bolasie,medium,canonical_lower
+player_brahian_palacios,Brahian Palacios,brahian palacios,high,canonical_lower
+player_bruno_rodrigues,Bruno Rodrigues,bruno rodrigues,high,canonical_lower
+player_caio_paulista,Caio Paulista,caio paulista,high,canonical_lower
+player_caua_soares,Cauã Soares,cauã soares,high,canonical_lower
+player_caua_soares,Cauã Soares,caua soares,high,canonical_without_accents
+player_chico_da_costa,Chico da Costa,chico da costa,high,canonical_lower
+player_christian,Christian,christian,medium,canonical_lower
+player_cassio,Cássio,cássio,high,canonical_lower
+player_cassio,Cássio,cassio,high,canonical_without_accents
+player_deyverson,Deyverson,deyverson,high,canonical_lower
+player_dudu,Dudu,dudu,medium,canonical_lower
+player_eduardo,Eduardo,eduardo,medium,canonical_lower
+player_everson,Everson,everson,medium,canonical_lower
+player_fabricio_bruno,Fabrício Bruno,fabrício bruno,high,canonical_lower
+player_fabricio_bruno,Fabrício Bruno,fabricio bruno,high,canonical_without_accents
+player_fagner,Fagner,fagner,medium,canonical_lower
+player_fausto_vera,Fausto Vera,fausto vera,high,canonical_lower
+player_fred,Fred,fred,medium,canonical_lower
+player_gabriel_barbosa,Gabriel Barbosa,gabriel barbosa,high,canonical_lower
+player_gabriel_barbosa,Gabriel Barbosa,gabigol,high,common_alias
+player_gabriel_barbosa,Gabriel Barbosa,gabi,medium,common_alias
+player_gabriel_menino,Gabriel Menino,gabriel menino,high,canonical_lower
+player_gabriel_rojas,Gabriel Rojas,gabriel rojas,high,canonical_lower
+player_gabriel_rojas,Gabriel Rojas,rojas,medium,common_alias
+player_gerson,Gerson,gerson,high,canonical_lower
+player_guilherme_arana,Guilherme Arana,guilherme arana,high,canonical_lower
+player_guilherme_arana,Guilherme Arana,arana,high,common_alias
+player_gustavo_scarpa,Gustavo Scarpa,gustavo scarpa,high,canonical_lower
+player_gustavo_scarpa,Gustavo Scarpa,scarpa,high,common_alias
+player_hulk,Hulk,hulk,medium,canonical_lower
+player_igor_gomes,Igor Gomes,igor gomes,high,canonical_lower
+player_igor_rabello,Igor Rabello,igor rabello,high,canonical_lower
+player_ivan_roman,Iván Román,iván román,high,canonical_lower
+player_ivan_roman,Iván Román,ivan roman,high,canonical_without_accents
+player_japa,Japa,japa,medium,canonical_lower
+player_jonathan_jesus,Jonathan Jesus,jonathan jesus,high,canonical_lower
+player_joao_costa,João Costa,joão costa,high,canonical_lower
+player_joao_costa,João Costa,joao costa,high,canonical_without_accents
+player_joao_marcelo,João Marcelo,joão marcelo,high,canonical_lower
+player_joao_marcelo,João Marcelo,joao marcelo,high,canonical_without_accents
+player_junior_alonso,Júnior Alonso,júnior alonso,high,canonical_lower
+player_junior_alonso,Júnior Alonso,junior alonso,high,canonical_without_accents
+player_junior_alonso,Júnior Alonso,alonso,high,common_alias
+player_junior_santos,Júnior Santos,júnior santos,high,canonical_lower
+player_junior_santos,Júnior Santos,junior santos,high,canonical_without_accents
+player_kaiki_bruno,Kaiki Bruno,kaiki bruno,high,canonical_lower
+player_kaio_jorge,Kaio Jorge,kaio jorge,high,canonical_lower
+player_kaique_kenji,Kaique Kenji,kaique kenji,high,canonical_lower
+player_kaique_kenji,Kaique Kenji,kenji,medium,common_alias
+player_kaua_moraes,Kauã Moraes,kauã moraes,high,canonical_lower
+player_kaua_moraes,Kauã Moraes,kaua moraes,high,canonical_without_accents
+player_kaua_pascini,Kauã Pascini,kauã pascini,high,canonical_lower
+player_kaua_pascini,Kauã Pascini,kaua pascini,high,canonical_without_accents
+player_keny_arroyo,Keny Arroyo,keny arroyo,high,canonical_lower
+player_keny_arroyo,Keny Arroyo,arroyo,high,common_alias
+player_kevin_castano,Kevin Castaño,kevin castaño,high,canonical_lower
+player_kevin_castano,Kevin Castaño,kevin castano,high,canonical_without_accents
+player_kevin_castano,Kevin Castaño,castano,high,common_alias
+player_kevin_castano,Kevin Castaño,castaño,high,common_alias
+player_lautaro_diaz,Lautaro Díaz,lautaro díaz,high,canonical_lower
+player_lautaro_diaz,Lautaro Díaz,lautaro diaz,high,canonical_without_accents
+player_lautaro_diaz,Lautaro Díaz,lautaro,medium,common_alias
+player_lucas_romero,Lucas Romero,lucas romero,high,canonical_lower
+player_lucas_silva,Lucas Silva,lucas silva,high,canonical_lower
+player_lucas_villalba,Lucas Villalba,lucas villalba,high,canonical_lower
+player_luis_sinisterra,Luis Sinisterra,luis sinisterra,high,canonical_lower
+player_luis_sinisterra,Luis Sinisterra,sinisterra,high,common_alias
+player_lyanco,Lyanco,lyanco,medium,canonical_lower
+player_leo_aragao,Léo Aragão,léo aragão,high,canonical_lower
+player_leo_aragao,Léo Aragão,leo aragao,high,canonical_without_accents
+player_mamady_cisse,Mamady Cissé,mamady cissé,high,canonical_lower
+player_mamady_cisse,Mamady Cissé,mamady cisse,high,canonical_without_accents
+player_mamady_cisse,Mamady Cissé,cisse,medium,common_alias
+player_mamady_cisse,Mamady Cissé,cissé,medium,common_alias
+player_marquinhos,Marquinhos,marquinhos,high,canonical_lower
+player_mateo_cassierra,Mateo Cassierra,mateo cassierra,high,canonical_lower
+player_mateo_cassierra,Mateo Cassierra,cassierra,high,common_alias
+player_matheus_henrique,Matheus Henrique,matheus henrique,high,canonical_lower
+player_matheus_pereira,Matheus Pereira,matheus pereira,high,canonical_lower
+player_maycon,Maycon,maycon,medium,canonical_lower
+player_natanael,Natanael,natanael,high,canonical_lower
+player_neyser_villarreal,Neyser Villarreal,neyser villarreal,high,canonical_lower
+player_neyser_villarreal,Neyser Villarreal,neyser,high,common_alias
+player_neyser_villarreal,Neyser Villarreal,neiser,medium,common_alias
+player_neyser_villarreal,Neyser Villarreal,villarreal,medium,common_alias
+player_otavio,Otávio,otávio,medium,canonical_lower
+player_otavio,Otávio,otavio,medium,canonical_without_accents
+player_otavio_henrique,Otávio Henrique,otávio henrique,high,canonical_lower
+player_otavio_henrique,Otávio Henrique,otavio henrique,high,canonical_without_accents
+player_patrick,Patrick,patrick,medium,canonical_lower
+player_reinier,Reinier,reinier,medium,canonical_lower
+player_renan_lodi,Renan Lodi,renan lodi,high,canonical_lower
+player_renan_lodi,Renan Lodi,lodi,high,common_alias
+player_rony,Rony,rony,medium,canonical_lower
+player_ruan_tressoldi,Ruan Tressoldi,ruan tressoldi,high,canonical_lower
+player_rubens,Rubens,rubens,high,canonical_lower
+player_saravia,Saravia,saravia,medium,canonical_lower
+player_thiago_borbas,Thiago Borbas,thiago borbas,high,canonical_lower
+player_thiago_borbas,Thiago Borbas,borbas,high,common_alias
+player_tomas_cuello,Tomás Cuello,tomás cuello,high,canonical_lower
+player_tomas_cuello,Tomás Cuello,tomas cuello,high,canonical_without_accents
+player_tomas_cuello,Tomás Cuello,cuello,high,common_alias
+player_tomas_perez,Tomás Pérez,tomás pérez,high,canonical_lower
+player_tomas_perez,Tomás Pérez,tomas perez,high,canonical_without_accents
+player_victor_hugo,Victor Hugo,victor hugo,high,canonical_lower
+player_vitor_hugo,Vitor Hugo,vitor hugo,high,canonical_lower
+player_vitao,Vitão,vitão,high,canonical_lower
+player_vitao,Vitão,vitao,high,canonical_without_accents
+player_walace,Walace,walace,medium,canonical_lower
+player_wanderson,Wanderson,wanderson,medium,canonical_lower
+player_wesley_teixeira,Wesley Teixeira,wesley teixeira,high,canonical_lower
+player_william,William,william,medium,canonical_lower
+player_angelo_preciado,Ángelo Preciado,ángelo preciado,high,canonical_lower
+player_angelo_preciado,Ángelo Preciado,angelo preciado,high,canonical_without_accents
+player_angelo_preciado,Ángelo Preciado,preciado,high,common_alias
+technical_staff_adrian_vaccarini,Adrián Vaccarini,adrián vaccarini,high,canonical_lower
+technical_staff_adrian_vaccarini,Adrián Vaccarini,adrian vaccarini,high,canonical_without_accents
+technical_staff_adrian_vaccarini,Adrián Vaccarini,vaccarini,high,common_alias
+technical_staff_alexandre_willian_pinto_coelho,Alexandre Willian Pinto Coelho,alexandre willian pinto coelho,high,canonical_lower
+technical_staff_aluizio_carlos_dos_santos,Aluizio Carlos dos Santos,aluizio carlos dos santos,high,canonical_lower
+technical_staff_andre_albino_carvalho_da_cunha,André Albino Carvalho Da Cunha,andré albino carvalho da cunha,high,canonical_lower
+technical_staff_andre_albino_carvalho_da_cunha,André Albino Carvalho Da Cunha,andre albino carvalho da cunha,high,canonical_without_accents
+technical_staff_antonio_augusto_duarte_baptista,Antonio Augusto Duarte Baptista,antonio augusto duarte baptista,high,canonical_lower
+technical_staff_antonio_manuel_martins_vieira,António Manuel Martins Vieira,antónio manuel martins vieira,high,canonical_lower
+technical_staff_antonio_manuel_martins_vieira,António Manuel Martins Vieira,antonio manuel martins vieira,high,canonical_without_accents
+technical_staff_cristiano_garcia_nunes,Cristiano Garcia Nunes,cristiano garcia nunes,high,canonical_lower
+technical_staff_cuquinha,Cuquinha,cuquinha,high,canonical_lower
+technical_staff_danilo_jose_prando_minutti,Danilo José Prando Minutti,danilo josé prando minutti,high,canonical_lower
+technical_staff_danilo_jose_prando_minutti,Danilo José Prando Minutti,danilo jose prando minutti,high,canonical_without_accents
+technical_staff_danilo_jose_prando_minutti,Danilo José Prando Minutti,danilo minutti,high,common_alias
+technical_staff_danilo_jose_prando_minutti,Danilo José Prando Minutti,minutti,high,common_alias
+technical_staff_danilo_minutti,Danilo Minutti,danilo minutti,high,canonical_lower
+technical_staff_danilo_minutti,Danilo Minutti,minutti,high,common_alias
+technical_staff_diogo_alves,Diogo Alves,diogo alves,high,canonical_lower
+technical_staff_fabricio_rocha_de_carvalho,Fabrício Rocha de Carvalho,fabrício rocha de carvalho,high,canonical_lower
+technical_staff_fabricio_rocha_de_carvalho,Fabrício Rocha de Carvalho,fabricio rocha de carvalho,high,canonical_without_accents
+technical_staff_fabio_mahseredjian,Fábio Mahseredjian,fábio mahseredjian,high,canonical_lower
+technical_staff_fabio_mahseredjian,Fábio Mahseredjian,fabio mahseredjian,high,canonical_without_accents
+technical_staff_gustavo_mendes_shiroma,Gustavo Mendes Shiroma,gustavo mendes shiroma,high,canonical_lower
+technical_staff_henrique_bueno_americo,Henrique Bueno Américo,henrique bueno américo,high,canonical_lower
+technical_staff_henrique_bueno_americo,Henrique Bueno Américo,henrique bueno americo,high,canonical_without_accents
+technical_staff_jose_omar_alves_feitosa,José Omar Alves Feitosa,josé omar alves feitosa,high,canonical_lower
+technical_staff_jose_omar_alves_feitosa,José Omar Alves Feitosa,jose omar alves feitosa,high,canonical_without_accents
+technical_staff_joao_pedro_campos_cardoso,João Pedro Campos Cardoso,joão pedro campos cardoso,high,canonical_lower
+technical_staff_joao_pedro_campos_cardoso,João Pedro Campos Cardoso,joao pedro campos cardoso,high,canonical_without_accents
+technical_staff_leandro_diaz,Leandro Díaz,leandro díaz,high,canonical_lower
+technical_staff_leandro_diaz,Leandro Díaz,leandro diaz,high,canonical_without_accents
+technical_staff_matheus_rizzi_bachi,Matheus Rizzi Bachi,matheus rizzi bachi,high,canonical_lower
+technical_staff_otaviano_de_oliveira_junior,Otaviano de Oliveira Júnior,otaviano de oliveira júnior,high,canonical_lower
+technical_staff_otaviano_de_oliveira_junior,Otaviano de Oliveira Júnior,otaviano de oliveira junior,high,canonical_without_accents
+technical_staff_pablo_candido_fernandez,Pablo Candido Fernandez,pablo candido fernandez,high,canonical_lower
+technical_staff_ricardo_herlland_seguins_de_lima,Ricardo Herlland Seguins de Lima,ricardo herlland seguins de lima,high,canonical_lower
+technical_staff_robertinho,Robertinho,robertinho,medium,canonical_lower
+technical_staff_roberto_barbosa_dos_santos,Roberto Barbosa dos Santos,roberto barbosa dos santos,high,canonical_lower
+technical_staff_rodrigo_barreiros_vieira,Rodrigo Barreiros Vieira,rodrigo barreiros vieira,high,canonical_lower
+technical_staff_rodrigo_lasmar,Rodrigo Lasmar,rodrigo lasmar,high,canonical_lower
+technical_staff_rodrigo_lasmar,Rodrigo Lasmar,lasmar,high,common_alias
+technical_staff_rodrigo_mascarenhas,Rodrigo Mascarenhas,rodrigo mascarenhas,high,canonical_lower
+technical_staff_sergio_augusto_campolina_de_azeredo,Sergio Augusto Campolina de Azeredo,sergio augusto campolina de azeredo,high,canonical_lower
+technical_staff_sergio_augusto_campolina_de_azeredo,Sergio Augusto Campolina de Azeredo,sergio campolina,high,common_alias
+technical_staff_sergio_augusto_campolina_de_azeredo,Sergio Augusto Campolina de Azeredo,sérgio campolina,high,common_alias
+technical_staff_sergio_augusto_campolina_de_azeredo,Sergio Augusto Campolina de Azeredo,campolina,medium,common_alias
+technical_staff_sergio_campolina,Sérgio Campolina,sérgio campolina,high,canonical_lower
+technical_staff_sergio_campolina,Sérgio Campolina,sergio campolina,high,canonical_without_accents
+technical_staff_sergio_campolina,Sérgio Campolina,campolina,medium,common_alias
+technical_staff_thiago_daniel_macedo_silva,Thiago Daniel Macedo Silva,thiago daniel macedo silva,high,canonical_lower
+technical_staff_tiago_andre_lopes_senra,Tiago Andre Lopes Senra,tiago andre lopes senra,high,canonical_lower
+technical_staff_vinicius_bergantin,Vinícius Bergantin,vinícius bergantin,high,canonical_lower
+technical_staff_vinicius_bergantin,Vinícius Bergantin,vinicius bergantin,high,canonical_without_accents

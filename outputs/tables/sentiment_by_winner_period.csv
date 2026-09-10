@@ -1,0 +1,19 @@
+outcome,period,sentiment,comments,proportion
+Atlético-MG venceu,post_game,negative,7295,0.49111350477985727
+Atlético-MG venceu,post_game,neutral,4504,0.3032179884206274
+Atlético-MG venceu,post_game,positive,3055,0.2056685067995153
+Atlético-MG venceu,pre_game,negative,44,0.30344827586206896
+Atlético-MG venceu,pre_game,neutral,67,0.46206896551724136
+Atlético-MG venceu,pre_game,positive,34,0.23448275862068965
+Cruzeiro venceu,post_game,negative,13265,0.4646234676007005
+Cruzeiro venceu,post_game,neutral,8280,0.29001751313485113
+Cruzeiro venceu,post_game,positive,7005,0.24535901926444834
+Cruzeiro venceu,pre_game,negative,54,0.35526315789473684
+Cruzeiro venceu,pre_game,neutral,72,0.47368421052631576
+Cruzeiro venceu,pre_game,positive,26,0.17105263157894737
+Empate,post_game,negative,4785,0.6586373021335169
+Empate,post_game,neutral,1791,0.2465244322092223
+Empate,post_game,positive,689,0.09483826565726083
+Empate,pre_game,negative,43,0.27388535031847133
+Empate,pre_game,neutral,75,0.47770700636942676
+Empate,pre_game,positive,39,0.2484076433121019

@@ -1,0 +1,26 @@
+{
+  "collection_started_at": "2026-09-09T20:19:54.117019+00:00",
+  "matches": 10,
+  "errors": [
+    {
+      "stage": "comments",
+      "video_id": "Ed9wU9wVt6M",
+      "error": "YouTube API failed: 403 Client Error: Forbidden for url: https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=Ed9wU9wVt6M&maxResults=100&textFormat=plainText&order=time&key=[REDACTED]; {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The video identified by the \\u003ccode\\u003e\\u003ca href=\\\"/youtube/v3/docs/commentThreads/list#videoId\\\"\\u003evideoId\\u003c/a\\u003e\\u003c/code\\u003e parameter has disabled comments.\",\n    \"errors\": [\n      {\n        \"message\": \"The video identified by the \\u003ccode\\u003e\\u003ca href=\\\"/youtube/v3/docs/commentThreads/list#videoId\\\"\\u003evideoId\\u003c/a\\u003e\\u003c/code\\u003e parameter has disabled comments.\",\n        \"domain\": \"youtube.commentThre"
+    }
+  ],
+  "last_updated_at": "2026-09-09T20:39:15.378762+00:00",
+  "parameters": {
+    "pre_game_days": 3,
+    "post_game_days": 3,
+    "max_pre_game_videos_per_match": 5,
+    "max_post_game_videos_per_match": 5,
+    "max_comments_per_video": null,
+    "anonymize_users": true
+  },
+  "videos_found": 812,
+  "videos_selected": 100,
+  "comments": 42429,
+  "replies": 16481,
+  "unique_users": 40372,
+  "videos_comments_disabled": []
+}

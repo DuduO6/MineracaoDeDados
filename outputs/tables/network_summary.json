@@ -1,0 +1,17 @@
+{
+  "nodes": 40372,
+  "edges": 12179,
+  "average_degree": 0.6033389477855939,
+  "weak_components": 30880,
+  "strong_components": 40364,
+  "largest_weak_component_size": 8801,
+  "global_clustering_transitivity": 0.0015341023405539534,
+  "average_clustering": 0.00075283025327343,
+  "average_distance_largest_weak_component": 5.9037286363636365,
+  "observed_diameter_largest_weak_component": 17,
+  "distances_approximate": true,
+  "distance_sources_used": 500,
+  "betweenness_approximate": true,
+  "betweenness_sample_size": 500,
+  "degree_assortativity_coefficient": -0.2292609614459534
+}

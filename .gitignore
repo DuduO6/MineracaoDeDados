@@ -1,0 +1,12 @@
+.env
+secrets.json
+token.json
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+data/raw/*.tmp
+outputs/collection_summary.json.tmp
+venv
+

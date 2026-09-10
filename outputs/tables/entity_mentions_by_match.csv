@@ -1,0 +1,625 @@
+match_id,canonical_name,entity_type,role,team,team_result,comment_period,sentiment,mentions
+2025-02-09-cru-cam,Alan Franco,player,player,Atlético-MG,win,post_game,neutral,1
+2025-02-09-cru-cam,Alexandre Mattos,management,football_ceo,Cruzeiro,loss,post_game,negative,3
+2025-02-09-cru-cam,Cuca,coach,head_coach,Atlético-MG,win,post_game,negative,8
+2025-02-09-cru-cam,Cuca,coach,head_coach,Atlético-MG,win,post_game,neutral,3
+2025-02-09-cru-cam,Cuca,coach,head_coach,Atlético-MG,win,post_game,positive,9
+2025-02-09-cru-cam,Cássio,player,player,Cruzeiro,loss,post_game,negative,275
+2025-02-09-cru-cam,Cássio,player,player,Cruzeiro,loss,post_game,neutral,126
+2025-02-09-cru-cam,Cássio,player,player,Cruzeiro,loss,post_game,positive,75
+2025-02-09-cru-cam,Deyverson,player,player,Atlético-MG,win,post_game,negative,1
+2025-02-09-cru-cam,Deyverson,player,player,Atlético-MG,win,post_game,neutral,1
+2025-02-09-cru-cam,Dudu,player,player,Cruzeiro,loss,post_game,negative,190
+2025-02-09-cru-cam,Dudu,player,player,Cruzeiro,loss,post_game,neutral,50
+2025-02-09-cru-cam,Dudu,player,player,Cruzeiro,loss,post_game,positive,23
+2025-02-09-cru-cam,Eduardo,player,player,Cruzeiro,loss,post_game,negative,1
+2025-02-09-cru-cam,Everson,player,player,Atlético-MG,win,post_game,negative,2
+2025-02-09-cru-cam,Everson,player,player,Atlético-MG,win,post_game,neutral,2
+2025-02-09-cru-cam,Everson,player,player,Atlético-MG,win,post_game,positive,1
+2025-02-09-cru-cam,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,negative,76
+2025-02-09-cru-cam,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,neutral,43
+2025-02-09-cru-cam,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,positive,35
+2025-02-09-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,loss,post_game,negative,340
+2025-02-09-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,loss,post_game,neutral,129
+2025-02-09-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,loss,post_game,positive,115
+2025-02-09-cru-cam,Guilherme Arana,player,player,Atlético-MG,win,post_game,negative,1
+2025-02-09-cru-cam,Guilherme Arana,player,player,Atlético-MG,win,post_game,neutral,1
+2025-02-09-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,win,post_game,negative,5
+2025-02-09-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,win,post_game,neutral,4
+2025-02-09-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,win,post_game,positive,3
+2025-02-09-cru-cam,Hulk,player,player,Atlético-MG,win,post_game,negative,262
+2025-02-09-cru-cam,Hulk,player,player,Atlético-MG,win,post_game,neutral,220
+2025-02-09-cru-cam,Hulk,player,player,Atlético-MG,win,post_game,positive,172
+2025-02-09-cru-cam,Jonathan Jesus,player,player,Cruzeiro,loss,post_game,negative,2
+2025-02-09-cru-cam,Júnior Alonso,player,player,Atlético-MG,win,post_game,negative,1
+2025-02-09-cru-cam,Júnior Alonso,player,player,Atlético-MG,win,post_game,neutral,1
+2025-02-09-cru-cam,Kaiki Bruno,player,player,Cruzeiro,loss,post_game,negative,1
+2025-02-09-cru-cam,Lucas Romero,player,player,Cruzeiro,loss,post_game,negative,1
+2025-02-09-cru-cam,Lyanco,player,player,Atlético-MG,win,post_game,negative,103
+2025-02-09-cru-cam,Lyanco,player,player,Atlético-MG,win,post_game,neutral,35
+2025-02-09-cru-cam,Lyanco,player,player,Atlético-MG,win,post_game,positive,6
+2025-02-09-cru-cam,Marquinhos,player,player,Cruzeiro,loss,post_game,negative,2
+2025-02-09-cru-cam,Matheus Henrique,player,player,Cruzeiro,loss,post_game,negative,1
+2025-02-09-cru-cam,Matheus Pereira,player,player,Cruzeiro,loss,post_game,negative,6
+2025-02-09-cru-cam,Matheus Pereira,player,player,Cruzeiro,loss,post_game,neutral,1
+2025-02-09-cru-cam,Matheus Pereira,player,player,Cruzeiro,loss,post_game,positive,4
+2025-02-09-cru-cam,Natanael,player,player,Atlético-MG,win,post_game,negative,3
+2025-02-09-cru-cam,Natanael,player,player,Atlético-MG,win,post_game,neutral,2
+2025-02-09-cru-cam,Natanael,player,player,Atlético-MG,win,post_game,positive,4
+2025-02-09-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,negative,10
+2025-02-09-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,neutral,6
+2025-02-09-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,positive,5
+2025-02-09-cru-cam,Rubens,player,player,Atlético-MG,win,post_game,negative,1
+2025-02-09-cru-cam,Rubens,player,player,Atlético-MG,win,post_game,neutral,2
+2025-02-09-cru-cam,Rubens,player,player,Atlético-MG,win,post_game,positive,1
+2025-02-09-cru-cam,Tomás Cuello,player,player,Atlético-MG,win,post_game,negative,5
+2025-02-09-cru-cam,Tomás Cuello,player,player,Atlético-MG,win,post_game,neutral,5
+2025-02-09-cru-cam,Tomás Cuello,player,player,Atlético-MG,win,post_game,positive,12
+2025-02-09-cru-cam,William,player,player,Cruzeiro,loss,post_game,negative,2
+2025-05-18-cru-cam,Alan Franco,player,player,Atlético-MG,draw,post_game,neutral,1
+2025-05-18-cru-cam,Cuca,coach,head_coach,Atlético-MG,draw,post_game,negative,5
+2025-05-18-cru-cam,Cuca,coach,head_coach,Atlético-MG,draw,post_game,neutral,2
+2025-05-18-cru-cam,Cuca,coach,head_coach,Atlético-MG,draw,post_game,positive,1
+2025-05-18-cru-cam,Cássio,player,player,Cruzeiro,draw,post_game,negative,4
+2025-05-18-cru-cam,Cássio,player,player,Cruzeiro,draw,post_game,neutral,2
+2025-05-18-cru-cam,Everson,player,player,Atlético-MG,draw,post_game,negative,2
+2025-05-18-cru-cam,Everson,player,player,Atlético-MG,draw,post_game,neutral,3
+2025-05-18-cru-cam,Fabrício Bruno,player,player,Cruzeiro,draw,post_game,negative,8
+2025-05-18-cru-cam,Fabrício Bruno,player,player,Cruzeiro,draw,post_game,neutral,5
+2025-05-18-cru-cam,Fabrício Bruno,player,player,Cruzeiro,draw,post_game,positive,3
+2025-05-18-cru-cam,Fagner,player,player,Cruzeiro,draw,post_game,negative,10
+2025-05-18-cru-cam,Fagner,player,player,Cruzeiro,draw,post_game,neutral,3
+2025-05-18-cru-cam,Fagner,player,player,Cruzeiro,draw,post_game,positive,3
+2025-05-18-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,draw,post_game,negative,6
+2025-05-18-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,draw,post_game,positive,2
+2025-05-18-cru-cam,Guilherme Arana,player,player,Atlético-MG,draw,post_game,negative,3
+2025-05-18-cru-cam,Guilherme Arana,player,player,Atlético-MG,draw,pre_game,neutral,1
+2025-05-18-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,draw,post_game,negative,2
+2025-05-18-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,draw,pre_game,positive,1
+2025-05-18-cru-cam,Hulk,player,player,Atlético-MG,draw,post_game,negative,53
+2025-05-18-cru-cam,Hulk,player,player,Atlético-MG,draw,post_game,neutral,13
+2025-05-18-cru-cam,Hulk,player,player,Atlético-MG,draw,post_game,positive,8
+2025-05-18-cru-cam,Hulk,player,player,Atlético-MG,draw,pre_game,positive,2
+2025-05-18-cru-cam,Júnior Alonso,player,player,Atlético-MG,draw,post_game,negative,12
+2025-05-18-cru-cam,Júnior Santos,player,player,Atlético-MG,draw,post_game,negative,2
+2025-05-18-cru-cam,Júnior Santos,player,player,Atlético-MG,draw,post_game,positive,1
+2025-05-18-cru-cam,Kaio Jorge,player,player,Cruzeiro,draw,post_game,negative,2
+2025-05-18-cru-cam,Kaio Jorge,player,player,Cruzeiro,draw,post_game,neutral,2
+2025-05-18-cru-cam,Kaio Jorge,player,player,Cruzeiro,draw,post_game,positive,1
+2025-05-18-cru-cam,Leonardo Jardim,coach,head_coach,Cruzeiro,draw,post_game,negative,1
+2025-05-18-cru-cam,Lucas Silva,player,player,Cruzeiro,draw,post_game,negative,1
+2025-05-18-cru-cam,Lyanco,player,player,Atlético-MG,draw,post_game,negative,9
+2025-05-18-cru-cam,Lyanco,player,player,Atlético-MG,draw,post_game,neutral,3
+2025-05-18-cru-cam,Lyanco,player,player,Atlético-MG,draw,post_game,positive,3
+2025-05-18-cru-cam,Lyanco,player,player,Atlético-MG,draw,pre_game,positive,1
+2025-05-18-cru-cam,Matheus Pereira,player,player,Cruzeiro,draw,post_game,negative,2
+2025-05-18-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,draw,post_game,negative,2
+2025-05-18-cru-cam,Rony,player,player,Atlético-MG,draw,post_game,negative,9
+2025-05-18-cru-cam,Rony,player,player,Atlético-MG,draw,post_game,neutral,1
+2025-05-18-cru-cam,Rony,player,player,Atlético-MG,draw,post_game,positive,1
+2025-05-18-cru-cam,Rony,player,player,Atlético-MG,draw,pre_game,neutral,1
+2025-05-18-cru-cam,Rony,player,player,Atlético-MG,draw,pre_game,positive,1
+2025-05-18-cru-cam,Rubens,player,player,Atlético-MG,draw,post_game,negative,4
+2025-05-18-cru-cam,Rubens,player,player,Atlético-MG,draw,pre_game,neutral,1
+2025-05-18-cru-cam,Rubens,player,player,Atlético-MG,draw,pre_game,positive,1
+2025-05-18-cru-cam,Wanderson,player,player,Cruzeiro,draw,post_game,negative,1
+2025-08-27-cam-cru,Alan Franco,player,player,Atlético-MG,loss,post_game,negative,2
+2025-08-27-cam-cru,Alan Franco,player,player,Atlético-MG,loss,post_game,neutral,2
+2025-08-27-cam-cru,Alan Franco,player,player,Atlético-MG,loss,post_game,positive,1
+2025-08-27-cam-cru,Alan Franco,player,player,Atlético-MG,loss,pre_game,positive,1
+2025-08-27-cam-cru,Alexsander,player,player,Atlético-MG,loss,post_game,negative,2
+2025-08-27-cam-cru,Biel,player,player,Atlético-MG,loss,post_game,negative,1
+2025-08-27-cam-cru,Cuca,coach,head_coach,Atlético-MG,loss,post_game,negative,102
+2025-08-27-cam-cru,Cuca,coach,head_coach,Atlético-MG,loss,post_game,neutral,40
+2025-08-27-cam-cru,Cuca,coach,head_coach,Atlético-MG,loss,post_game,positive,29
+2025-08-27-cam-cru,Cuca,coach,head_coach,Atlético-MG,loss,pre_game,negative,8
+2025-08-27-cam-cru,Cuca,coach,head_coach,Atlético-MG,loss,pre_game,neutral,1
+2025-08-27-cam-cru,Cuca,coach,head_coach,Atlético-MG,loss,pre_game,positive,2
+2025-08-27-cam-cru,Cuquinha,technical_staff,assistant_coach,Atlético-MG,loss,post_game,negative,1
+2025-08-27-cam-cru,Cuquinha,technical_staff,assistant_coach,Atlético-MG,loss,post_game,neutral,1
+2025-08-27-cam-cru,Cássio,player,player,Cruzeiro,win,post_game,negative,10
+2025-08-27-cam-cru,Cássio,player,player,Cruzeiro,win,post_game,neutral,20
+2025-08-27-cam-cru,Cássio,player,player,Cruzeiro,win,post_game,positive,7
+2025-08-27-cam-cru,Cássio,player,player,Cruzeiro,win,pre_game,neutral,1
+2025-08-27-cam-cru,Cássio,player,player,Cruzeiro,win,pre_game,positive,1
+2025-08-27-cam-cru,Dudu,player,player,Atlético-MG,loss,post_game,negative,27
+2025-08-27-cam-cru,Dudu,player,player,Atlético-MG,loss,post_game,neutral,29
+2025-08-27-cam-cru,Dudu,player,player,Atlético-MG,loss,post_game,positive,3
+2025-08-27-cam-cru,Eduardo,player,player,Cruzeiro,win,post_game,negative,1
+2025-08-27-cam-cru,Eduardo,player,player,Cruzeiro,win,post_game,neutral,2
+2025-08-27-cam-cru,Everson,player,player,Atlético-MG,loss,post_game,negative,6
+2025-08-27-cam-cru,Everson,player,player,Atlético-MG,loss,post_game,neutral,12
+2025-08-27-cam-cru,Everson,player,player,Atlético-MG,loss,post_game,positive,3
+2025-08-27-cam-cru,Everson,player,player,Atlético-MG,loss,pre_game,positive,1
+2025-08-27-cam-cru,Fabrício Bruno,player,player,Cruzeiro,win,post_game,negative,48
+2025-08-27-cam-cru,Fabrício Bruno,player,player,Cruzeiro,win,post_game,neutral,52
+2025-08-27-cam-cru,Fabrício Bruno,player,player,Cruzeiro,win,post_game,positive,56
+2025-08-27-cam-cru,Fabrício Bruno,player,player,Cruzeiro,win,pre_game,negative,2
+2025-08-27-cam-cru,Fabrício Bruno,player,player,Cruzeiro,win,pre_game,neutral,3
+2025-08-27-cam-cru,Fabrício Bruno,player,player,Cruzeiro,win,pre_game,positive,3
+2025-08-27-cam-cru,Gabriel Barbosa,player,player,Cruzeiro,win,post_game,negative,36
+2025-08-27-cam-cru,Gabriel Barbosa,player,player,Cruzeiro,win,post_game,neutral,16
+2025-08-27-cam-cru,Gabriel Barbosa,player,player,Cruzeiro,win,post_game,positive,7
+2025-08-27-cam-cru,Guilherme Arana,player,player,Atlético-MG,loss,post_game,negative,11
+2025-08-27-cam-cru,Guilherme Arana,player,player,Atlético-MG,loss,post_game,neutral,7
+2025-08-27-cam-cru,Guilherme Arana,player,player,Atlético-MG,loss,post_game,positive,3
+2025-08-27-cam-cru,Guilherme Arana,player,player,Atlético-MG,loss,pre_game,negative,2
+2025-08-27-cam-cru,Guilherme Arana,player,player,Atlético-MG,loss,pre_game,neutral,2
+2025-08-27-cam-cru,Guilherme Arana,player,player,Atlético-MG,loss,pre_game,positive,3
+2025-08-27-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,loss,post_game,negative,6
+2025-08-27-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,loss,post_game,neutral,4
+2025-08-27-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,loss,pre_game,negative,1
+2025-08-27-cam-cru,Hulk,player,player,Atlético-MG,loss,during_game,neutral,1
+2025-08-27-cam-cru,Hulk,player,player,Atlético-MG,loss,post_game,negative,199
+2025-08-27-cam-cru,Hulk,player,player,Atlético-MG,loss,post_game,neutral,47
+2025-08-27-cam-cru,Hulk,player,player,Atlético-MG,loss,post_game,positive,19
+2025-08-27-cam-cru,Hulk,player,player,Atlético-MG,loss,pre_game,negative,2
+2025-08-27-cam-cru,Hulk,player,player,Atlético-MG,loss,pre_game,neutral,2
+2025-08-27-cam-cru,Júnior Alonso,player,player,Atlético-MG,loss,post_game,negative,4
+2025-08-27-cam-cru,Júnior Alonso,player,player,Atlético-MG,loss,post_game,positive,1
+2025-08-27-cam-cru,Kaiki Bruno,player,player,Cruzeiro,win,post_game,neutral,1
+2025-08-27-cam-cru,Kaio Jorge,player,player,Cruzeiro,win,post_game,negative,19
+2025-08-27-cam-cru,Kaio Jorge,player,player,Cruzeiro,win,post_game,neutral,20
+2025-08-27-cam-cru,Kaio Jorge,player,player,Cruzeiro,win,post_game,positive,23
+2025-08-27-cam-cru,Kaio Jorge,player,player,Cruzeiro,win,pre_game,neutral,3
+2025-08-27-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,win,post_game,negative,23
+2025-08-27-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,win,post_game,neutral,29
+2025-08-27-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,win,post_game,positive,15
+2025-08-27-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,win,pre_game,negative,3
+2025-08-27-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,win,pre_game,neutral,1
+2025-08-27-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,win,pre_game,positive,4
+2025-08-27-cam-cru,Lucas Romero,player,player,Cruzeiro,win,post_game,negative,2
+2025-08-27-cam-cru,Lucas Romero,player,player,Cruzeiro,win,post_game,neutral,3
+2025-08-27-cam-cru,Lucas Silva,player,player,Cruzeiro,win,post_game,negative,2
+2025-08-27-cam-cru,Lucas Silva,player,player,Cruzeiro,win,post_game,neutral,1
+2025-08-27-cam-cru,Lucas Silva,player,player,Cruzeiro,win,pre_game,negative,1
+2025-08-27-cam-cru,Lucas Silva,player,player,Cruzeiro,win,pre_game,neutral,1
+2025-08-27-cam-cru,Matheus Pereira,player,player,Cruzeiro,win,post_game,negative,4
+2025-08-27-cam-cru,Matheus Pereira,player,player,Cruzeiro,win,post_game,neutral,7
+2025-08-27-cam-cru,Matheus Pereira,player,player,Cruzeiro,win,pre_game,negative,1
+2025-08-27-cam-cru,Matheus Pereira,player,player,Cruzeiro,win,pre_game,neutral,1
+2025-08-27-cam-cru,Natanael,player,player,Atlético-MG,loss,post_game,positive,1
+2025-08-27-cam-cru,Paulo Pelaipe,management,executive_football_director,Cruzeiro,win,post_game,negative,2
+2025-08-27-cam-cru,Paulo Pelaipe,management,executive_football_director,Cruzeiro,win,post_game,neutral,1
+2025-08-27-cam-cru,Paulo Pelaipe,management,executive_football_director,Cruzeiro,win,post_game,positive,1
+2025-08-27-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,negative,1
+2025-08-27-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,positive,2
+2025-08-27-cam-cru,Rony,player,player,Atlético-MG,loss,post_game,negative,4
+2025-08-27-cam-cru,Rony,player,player,Atlético-MG,loss,post_game,positive,1
+2025-08-27-cam-cru,Tomás Cuello,player,player,Atlético-MG,loss,post_game,negative,4
+2025-08-27-cam-cru,Tomás Cuello,player,player,Atlético-MG,loss,post_game,neutral,2
+2025-08-27-cam-cru,Tomás Cuello,player,player,Atlético-MG,loss,post_game,positive,1
+2025-08-27-cam-cru,Tomás Cuello,player,player,Atlético-MG,loss,pre_game,negative,1
+2025-08-27-cam-cru,Tomás Cuello,player,player,Atlético-MG,loss,pre_game,neutral,1
+2025-08-27-cam-cru,Tomás Cuello,player,player,Atlético-MG,loss,pre_game,positive,2
+2025-08-27-cam-cru,Vitor Hugo,player,player,Atlético-MG,loss,post_game,negative,1
+2025-08-27-cam-cru,Vitor Hugo,player,player,Atlético-MG,loss,post_game,positive,1
+2025-08-27-cam-cru,Wanderson,player,player,Cruzeiro,win,post_game,negative,1
+2025-08-27-cam-cru,Wanderson,player,player,Cruzeiro,win,post_game,neutral,3
+2025-08-27-cam-cru,Wanderson,player,player,Cruzeiro,win,post_game,positive,3
+2025-08-27-cam-cru,Wanderson,player,player,Cruzeiro,win,pre_game,negative,1
+2025-08-27-cam-cru,Wanderson,player,player,Cruzeiro,win,pre_game,positive,2
+2025-08-27-cam-cru,William,player,player,Cruzeiro,win,post_game,negative,1
+2025-08-27-cam-cru,William,player,player,Cruzeiro,win,post_game,neutral,1
+2025-08-27-cam-cru,William,player,player,Cruzeiro,win,pre_game,neutral,1
+2025-09-11-cru-cam,Christian,player,player,Cruzeiro,win,post_game,neutral,3
+2025-09-11-cru-cam,Christian,player,player,Cruzeiro,win,post_game,positive,2
+2025-09-11-cru-cam,Cássio,player,player,Cruzeiro,win,post_game,neutral,14
+2025-09-11-cru-cam,Cássio,player,player,Cruzeiro,win,post_game,positive,8
+2025-09-11-cru-cam,Everson,player,player,Atlético-MG,loss,post_game,negative,3
+2025-09-11-cru-cam,Everson,player,player,Atlético-MG,loss,post_game,neutral,2
+2025-09-11-cru-cam,Fabrício Bruno,player,player,Cruzeiro,win,post_game,negative,146
+2025-09-11-cru-cam,Fabrício Bruno,player,player,Cruzeiro,win,post_game,neutral,39
+2025-09-11-cru-cam,Fabrício Bruno,player,player,Cruzeiro,win,post_game,positive,21
+2025-09-11-cru-cam,Fausto Vera,player,player,Atlético-MG,loss,post_game,negative,1
+2025-09-11-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,win,post_game,negative,30
+2025-09-11-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,win,post_game,neutral,19
+2025-09-11-cru-cam,Gabriel Barbosa,player,player,Cruzeiro,win,post_game,positive,20
+2025-09-11-cru-cam,Gabriel Menino,player,player,Atlético-MG,loss,post_game,negative,1
+2025-09-11-cru-cam,Guilherme Arana,player,player,Atlético-MG,loss,post_game,negative,46
+2025-09-11-cru-cam,Guilherme Arana,player,player,Atlético-MG,loss,post_game,neutral,13
+2025-09-11-cru-cam,Guilherme Arana,player,player,Atlético-MG,loss,post_game,positive,8
+2025-09-11-cru-cam,Guilherme Arana,player,player,Atlético-MG,loss,pre_game,neutral,1
+2025-09-11-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,loss,post_game,negative,35
+2025-09-11-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,loss,post_game,neutral,26
+2025-09-11-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,loss,post_game,positive,30
+2025-09-11-cru-cam,Hulk,player,player,Atlético-MG,loss,post_game,negative,131
+2025-09-11-cru-cam,Hulk,player,player,Atlético-MG,loss,post_game,neutral,46
+2025-09-11-cru-cam,Hulk,player,player,Atlético-MG,loss,post_game,positive,23
+2025-09-11-cru-cam,Igor Gomes,player,player,Atlético-MG,loss,post_game,negative,1
+2025-09-11-cru-cam,Igor Gomes,player,player,Atlético-MG,loss,post_game,positive,1
+2025-09-11-cru-cam,Jorge Sampaoli,coach,head_coach,Atlético-MG,loss,post_game,negative,7
+2025-09-11-cru-cam,Jorge Sampaoli,coach,head_coach,Atlético-MG,loss,post_game,neutral,2
+2025-09-11-cru-cam,Jorge Sampaoli,coach,head_coach,Atlético-MG,loss,post_game,positive,2
+2025-09-11-cru-cam,Júnior Alonso,player,player,Atlético-MG,loss,post_game,negative,1
+2025-09-11-cru-cam,Kaio Jorge,player,player,Cruzeiro,win,post_game,negative,41
+2025-09-11-cru-cam,Kaio Jorge,player,player,Cruzeiro,win,post_game,neutral,26
+2025-09-11-cru-cam,Kaio Jorge,player,player,Cruzeiro,win,post_game,positive,31
+2025-09-11-cru-cam,Leonardo Jardim,coach,head_coach,Cruzeiro,win,post_game,negative,8
+2025-09-11-cru-cam,Leonardo Jardim,coach,head_coach,Cruzeiro,win,post_game,neutral,4
+2025-09-11-cru-cam,Leonardo Jardim,coach,head_coach,Cruzeiro,win,post_game,positive,24
+2025-09-11-cru-cam,Lucas Romero,player,player,Cruzeiro,win,post_game,neutral,3
+2025-09-11-cru-cam,Lucas Romero,player,player,Cruzeiro,win,post_game,positive,6
+2025-09-11-cru-cam,Lucas Silva,player,player,Cruzeiro,win,post_game,negative,8
+2025-09-11-cru-cam,Lucas Silva,player,player,Cruzeiro,win,post_game,neutral,11
+2025-09-11-cru-cam,Lucas Silva,player,player,Cruzeiro,win,post_game,positive,40
+2025-09-11-cru-cam,Luis Sinisterra,player,player,Cruzeiro,win,post_game,negative,1
+2025-09-11-cru-cam,Luis Sinisterra,player,player,Cruzeiro,win,post_game,neutral,2
+2025-09-11-cru-cam,Lyanco,player,player,Atlético-MG,loss,post_game,negative,61
+2025-09-11-cru-cam,Lyanco,player,player,Atlético-MG,loss,post_game,neutral,26
+2025-09-11-cru-cam,Lyanco,player,player,Atlético-MG,loss,post_game,positive,8
+2025-09-11-cru-cam,Matheus Henrique,player,player,Cruzeiro,win,post_game,negative,1
+2025-09-11-cru-cam,Matheus Henrique,player,player,Cruzeiro,win,post_game,neutral,1
+2025-09-11-cru-cam,Matheus Pereira,player,player,Cruzeiro,win,post_game,negative,1
+2025-09-11-cru-cam,Matheus Pereira,player,player,Cruzeiro,win,post_game,neutral,4
+2025-09-11-cru-cam,Matheus Pereira,player,player,Cruzeiro,win,post_game,positive,1
+2025-09-11-cru-cam,Pedro Junio,management,saf_vice_president_football_lead,Cruzeiro,win,post_game,positive,1
+2025-09-11-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,negative,10
+2025-09-11-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,neutral,8
+2025-09-11-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,positive,129
+2025-09-11-cru-cam,Rony,player,player,Atlético-MG,loss,post_game,negative,4
+2025-09-11-cru-cam,Rony,player,player,Atlético-MG,loss,post_game,neutral,2
+2025-09-11-cru-cam,Rony,player,player,Atlético-MG,loss,post_game,positive,1
+2025-09-11-cru-cam,Walace,player,player,Cruzeiro,win,post_game,negative,1
+2025-09-11-cru-cam,Wanderson,player,player,Cruzeiro,win,post_game,negative,5
+2025-09-11-cru-cam,Wanderson,player,player,Cruzeiro,win,post_game,neutral,2
+2025-09-11-cru-cam,Wanderson,player,player,Cruzeiro,win,post_game,positive,1
+2025-09-11-cru-cam,William,player,player,Cruzeiro,win,post_game,neutral,1
+2025-09-11-cru-cam,William,player,player,Cruzeiro,win,post_game,positive,2
+2025-10-15-cam-cru,Bernard,player,player,Atlético-MG,draw,post_game,negative,4
+2025-10-15-cam-cru,Bernard,player,player,Atlético-MG,draw,post_game,neutral,3
+2025-10-15-cam-cru,Bernard,player,player,Atlético-MG,draw,post_game,positive,1
+2025-10-15-cam-cru,Biel,player,player,Atlético-MG,draw,post_game,negative,4
+2025-10-15-cam-cru,Biel,player,player,Atlético-MG,draw,post_game,neutral,1
+2025-10-15-cam-cru,Biel,player,player,Atlético-MG,draw,post_game,positive,1
+2025-10-15-cam-cru,Caio Paulista,player,player,Atlético-MG,draw,post_game,negative,2
+2025-10-15-cam-cru,Caio Paulista,player,player,Atlético-MG,draw,post_game,neutral,1
+2025-10-15-cam-cru,Cássio,player,player,Cruzeiro,draw,post_game,negative,13
+2025-10-15-cam-cru,Cássio,player,player,Cruzeiro,draw,post_game,neutral,5
+2025-10-15-cam-cru,Dudu,player,player,Atlético-MG,draw,post_game,negative,68
+2025-10-15-cam-cru,Dudu,player,player,Atlético-MG,draw,post_game,neutral,21
+2025-10-15-cam-cru,Dudu,player,player,Atlético-MG,draw,post_game,positive,8
+2025-10-15-cam-cru,Dudu,player,player,Atlético-MG,draw,pre_game,neutral,1
+2025-10-15-cam-cru,Everson,player,player,Atlético-MG,draw,post_game,negative,4
+2025-10-15-cam-cru,Everson,player,player,Atlético-MG,draw,post_game,neutral,2
+2025-10-15-cam-cru,Fausto Vera,player,player,Atlético-MG,draw,post_game,negative,1
+2025-10-15-cam-cru,Gabriel Barbosa,player,player,Cruzeiro,draw,post_game,negative,10
+2025-10-15-cam-cru,Gabriel Barbosa,player,player,Cruzeiro,draw,post_game,neutral,5
+2025-10-15-cam-cru,Gabriel Menino,player,player,Atlético-MG,draw,post_game,negative,6
+2025-10-15-cam-cru,Gabriel Menino,player,player,Atlético-MG,draw,post_game,neutral,3
+2025-10-15-cam-cru,Gabriel Menino,player,player,Atlético-MG,draw,post_game,positive,3
+2025-10-15-cam-cru,Guilherme Arana,player,player,Atlético-MG,draw,post_game,negative,2
+2025-10-15-cam-cru,Guilherme Arana,player,player,Atlético-MG,draw,post_game,neutral,2
+2025-10-15-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,draw,post_game,negative,9
+2025-10-15-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,draw,post_game,neutral,3
+2025-10-15-cam-cru,Hulk,player,player,Atlético-MG,draw,post_game,negative,46
+2025-10-15-cam-cru,Hulk,player,player,Atlético-MG,draw,post_game,neutral,18
+2025-10-15-cam-cru,Hulk,player,player,Atlético-MG,draw,post_game,positive,3
+2025-10-15-cam-cru,Iván Román,player,player,Atlético-MG,draw,post_game,negative,22
+2025-10-15-cam-cru,Iván Román,player,player,Atlético-MG,draw,post_game,neutral,1
+2025-10-15-cam-cru,Jorge Sampaoli,coach,head_coach,Atlético-MG,draw,post_game,negative,2
+2025-10-15-cam-cru,Jorge Sampaoli,coach,head_coach,Atlético-MG,draw,post_game,positive,2
+2025-10-15-cam-cru,Kaio Jorge,player,player,Cruzeiro,draw,post_game,negative,391
+2025-10-15-cam-cru,Kaio Jorge,player,player,Cruzeiro,draw,post_game,neutral,53
+2025-10-15-cam-cru,Kaio Jorge,player,player,Cruzeiro,draw,post_game,positive,33
+2025-10-15-cam-cru,Keny Arroyo,player,player,Cruzeiro,draw,post_game,negative,2
+2025-10-15-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,draw,post_game,negative,4
+2025-10-15-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,draw,post_game,positive,1
+2025-10-15-cam-cru,Leonardo Jardim,coach,head_coach,Cruzeiro,draw,pre_game,positive,1
+2025-10-15-cam-cru,Lucas Silva,player,player,Cruzeiro,draw,post_game,negative,5
+2025-10-15-cam-cru,Lucas Silva,player,player,Cruzeiro,draw,post_game,neutral,2
+2025-10-15-cam-cru,Léo Aragão,player,player,Cruzeiro,draw,post_game,negative,6
+2025-10-15-cam-cru,Matheus Pereira,player,player,Cruzeiro,draw,post_game,negative,4
+2025-10-15-cam-cru,Matheus Pereira,player,player,Cruzeiro,draw,post_game,neutral,8
+2025-10-15-cam-cru,Matheus Pereira,player,player,Cruzeiro,draw,post_game,positive,1
+2025-10-15-cam-cru,Natanael,player,player,Atlético-MG,draw,post_game,neutral,1
+2025-10-15-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,draw,post_game,negative,6
+2025-10-15-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,draw,post_game,neutral,2
+2025-10-15-cam-cru,Rony,player,player,Atlético-MG,draw,post_game,negative,14
+2025-10-15-cam-cru,Rony,player,player,Atlético-MG,draw,post_game,neutral,6
+2025-10-15-cam-cru,Rony,player,player,Atlético-MG,draw,post_game,positive,1
+2025-10-15-cam-cru,Ruan Tressoldi,player,player,Atlético-MG,draw,post_game,neutral,1
+2025-10-15-cam-cru,Saravia,player,player,Atlético-MG,draw,post_game,negative,1
+2025-10-15-cam-cru,Saravia,player,player,Atlético-MG,draw,post_game,neutral,2
+2025-10-15-cam-cru,Wanderson,player,player,Cruzeiro,draw,post_game,negative,2
+2025-10-15-cam-cru,William,player,player,Cruzeiro,draw,post_game,negative,6
+2026-01-25-cam-cru,Alan Franco,player,player,Atlético-MG,win,post_game,negative,3
+2026-01-25-cam-cru,Alan Franco,player,player,Atlético-MG,win,post_game,neutral,2
+2026-01-25-cam-cru,Alan Franco,player,player,Atlético-MG,win,post_game,positive,1
+2026-01-25-cam-cru,Alexsander,player,player,Atlético-MG,win,post_game,negative,1
+2026-01-25-cam-cru,Bernard,player,player,Atlético-MG,win,post_game,negative,35
+2026-01-25-cam-cru,Bernard,player,player,Atlético-MG,win,post_game,neutral,34
+2026-01-25-cam-cru,Bernard,player,player,Atlético-MG,win,post_game,positive,10
+2026-01-25-cam-cru,Christian,player,player,Cruzeiro,loss,post_game,negative,1
+2026-01-25-cam-cru,Cássio,player,player,Cruzeiro,loss,post_game,negative,19
+2026-01-25-cam-cru,Cássio,player,player,Cruzeiro,loss,post_game,neutral,4
+2026-01-25-cam-cru,Cássio,player,player,Cruzeiro,loss,post_game,positive,5
+2026-01-25-cam-cru,Dudu,player,player,Atlético-MG,win,post_game,negative,28
+2026-01-25-cam-cru,Dudu,player,player,Atlético-MG,win,post_game,neutral,8
+2026-01-25-cam-cru,Dudu,player,player,Atlético-MG,win,post_game,positive,13
+2026-01-25-cam-cru,Everson,player,player,Atlético-MG,win,post_game,negative,3
+2026-01-25-cam-cru,Everson,player,player,Atlético-MG,win,post_game,neutral,1
+2026-01-25-cam-cru,Everson,player,player,Atlético-MG,win,post_game,positive,1
+2026-01-25-cam-cru,Fabrício Bruno,player,player,Cruzeiro,loss,during_game,neutral,1
+2026-01-25-cam-cru,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,negative,57
+2026-01-25-cam-cru,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,neutral,24
+2026-01-25-cam-cru,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,positive,6
+2026-01-25-cam-cru,Gerson,player,player,Cruzeiro,loss,post_game,negative,23
+2026-01-25-cam-cru,Gerson,player,player,Cruzeiro,loss,post_game,neutral,14
+2026-01-25-cam-cru,Gerson,player,player,Cruzeiro,loss,post_game,positive,1
+2026-01-25-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,win,post_game,negative,10
+2026-01-25-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,win,post_game,neutral,4
+2026-01-25-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,win,post_game,positive,5
+2026-01-25-cam-cru,Hulk,player,player,Atlético-MG,win,post_game,negative,295
+2026-01-25-cam-cru,Hulk,player,player,Atlético-MG,win,post_game,neutral,179
+2026-01-25-cam-cru,Hulk,player,player,Atlético-MG,win,post_game,positive,179
+2026-01-25-cam-cru,Igor Gomes,player,player,Atlético-MG,win,post_game,negative,3
+2026-01-25-cam-cru,Igor Gomes,player,player,Atlético-MG,win,post_game,positive,1
+2026-01-25-cam-cru,Jonathan Jesus,player,player,Cruzeiro,loss,post_game,negative,1
+2026-01-25-cam-cru,Jorge Sampaoli,coach,head_coach,Atlético-MG,win,post_game,negative,6
+2026-01-25-cam-cru,Jorge Sampaoli,coach,head_coach,Atlético-MG,win,post_game,neutral,7
+2026-01-25-cam-cru,Jorge Sampaoli,coach,head_coach,Atlético-MG,win,post_game,positive,4
+2026-01-25-cam-cru,Jorge Sampaoli,coach,head_coach,Atlético-MG,win,pre_game,negative,1
+2026-01-25-cam-cru,Júnior Alonso,player,player,Atlético-MG,win,post_game,negative,5
+2026-01-25-cam-cru,Kaio Jorge,player,player,Cruzeiro,loss,post_game,negative,149
+2026-01-25-cam-cru,Kaio Jorge,player,player,Cruzeiro,loss,post_game,neutral,119
+2026-01-25-cam-cru,Kaio Jorge,player,player,Cruzeiro,loss,post_game,positive,40
+2026-01-25-cam-cru,Keny Arroyo,player,player,Cruzeiro,loss,post_game,negative,18
+2026-01-25-cam-cru,Keny Arroyo,player,player,Cruzeiro,loss,post_game,neutral,5
+2026-01-25-cam-cru,Keny Arroyo,player,player,Cruzeiro,loss,post_game,positive,3
+2026-01-25-cam-cru,Lucas Romero,player,player,Cruzeiro,loss,post_game,neutral,2
+2026-01-25-cam-cru,Lucas Silva,player,player,Cruzeiro,loss,post_game,negative,4
+2026-01-25-cam-cru,Lucas Silva,player,player,Cruzeiro,loss,post_game,neutral,3
+2026-01-25-cam-cru,Matheus Pereira,player,player,Cruzeiro,loss,post_game,negative,3
+2026-01-25-cam-cru,Matheus Pereira,player,player,Cruzeiro,loss,post_game,neutral,4
+2026-01-25-cam-cru,Maycon,player,player,Atlético-MG,win,post_game,negative,7
+2026-01-25-cam-cru,Maycon,player,player,Atlético-MG,win,post_game,neutral,5
+2026-01-25-cam-cru,Maycon,player,player,Atlético-MG,win,post_game,positive,2
+2026-01-25-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,negative,6
+2026-01-25-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,neutral,3
+2026-01-25-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,positive,1
+2026-01-25-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,pre_game,negative,1
+2026-01-25-cam-cru,Renan Lodi,player,player,Atlético-MG,win,post_game,negative,3
+2026-01-25-cam-cru,Renan Lodi,player,player,Atlético-MG,win,post_game,positive,2
+2026-01-25-cam-cru,Tite,coach,head_coach,Cruzeiro,loss,during_game,negative,2
+2026-01-25-cam-cru,Tite,coach,head_coach,Cruzeiro,loss,post_game,negative,64
+2026-01-25-cam-cru,Tite,coach,head_coach,Cruzeiro,loss,post_game,neutral,16
+2026-01-25-cam-cru,Tite,coach,head_coach,Cruzeiro,loss,post_game,positive,10
+2026-01-25-cam-cru,Tomás Cuello,player,player,Atlético-MG,win,post_game,positive,1
+2026-01-25-cam-cru,Victor Hugo,player,player,Atlético-MG,win,post_game,negative,1
+2026-01-25-cam-cru,Victor Hugo,player,player,Atlético-MG,win,post_game,positive,1
+2026-01-25-cam-cru,Wanderson,player,player,Cruzeiro,loss,post_game,negative,4
+2026-01-25-cam-cru,William,player,player,Cruzeiro,loss,post_game,negative,6
+2026-01-25-cam-cru,William,player,player,Cruzeiro,loss,post_game,neutral,1
+2026-03-08-cru-cam,Alan Franco,player,player,Atlético-MG,loss,post_game,negative,1
+2026-03-08-cru-cam,Alan Franco,player,player,Atlético-MG,loss,post_game,neutral,1
+2026-03-08-cru-cam,Alan Franco,player,player,Atlético-MG,loss,post_game,positive,1
+2026-03-08-cru-cam,Alan Minda,player,player,Atlético-MG,loss,post_game,neutral,2
+2026-03-08-cru-cam,Alan Minda,player,player,Atlético-MG,loss,post_game,positive,1
+2026-03-08-cru-cam,Bernard,player,player,Atlético-MG,loss,post_game,negative,4
+2026-03-08-cru-cam,Bruno Rodrigues,player,player,Cruzeiro,win,post_game,negative,3
+2026-03-08-cru-cam,Bruno Rodrigues,player,player,Cruzeiro,win,post_game,neutral,4
+2026-03-08-cru-cam,Bruno Rodrigues,player,player,Cruzeiro,win,post_game,positive,1
+2026-03-08-cru-cam,Christian,player,player,Cruzeiro,win,post_game,negative,14
+2026-03-08-cru-cam,Christian,player,player,Cruzeiro,win,post_game,neutral,8
+2026-03-08-cru-cam,Christian,player,player,Cruzeiro,win,post_game,positive,4
+2026-03-08-cru-cam,Cássio,player,player,Cruzeiro,win,post_game,negative,265
+2026-03-08-cru-cam,Cássio,player,player,Cruzeiro,win,post_game,neutral,151
+2026-03-08-cru-cam,Cássio,player,player,Cruzeiro,win,post_game,positive,63
+2026-03-08-cru-cam,Dudu,player,player,Atlético-MG,loss,post_game,negative,53
+2026-03-08-cru-cam,Dudu,player,player,Atlético-MG,loss,post_game,neutral,39
+2026-03-08-cru-cam,Dudu,player,player,Atlético-MG,loss,post_game,positive,8
+2026-03-08-cru-cam,Eduardo Domínguez,coach,head_coach,Atlético-MG,loss,post_game,negative,4
+2026-03-08-cru-cam,Eduardo Domínguez,coach,head_coach,Atlético-MG,loss,post_game,neutral,2
+2026-03-08-cru-cam,Everson,player,player,Atlético-MG,loss,post_game,negative,570
+2026-03-08-cru-cam,Everson,player,player,Atlético-MG,loss,post_game,neutral,108
+2026-03-08-cru-cam,Everson,player,player,Atlético-MG,loss,post_game,positive,66
+2026-03-08-cru-cam,Fabrício Bruno,player,player,Cruzeiro,win,post_game,negative,25
+2026-03-08-cru-cam,Fabrício Bruno,player,player,Cruzeiro,win,post_game,neutral,9
+2026-03-08-cru-cam,Fabrício Bruno,player,player,Cruzeiro,win,post_game,positive,1
+2026-03-08-cru-cam,Gerson,player,player,Cruzeiro,win,post_game,negative,145
+2026-03-08-cru-cam,Gerson,player,player,Cruzeiro,win,post_game,neutral,94
+2026-03-08-cru-cam,Gerson,player,player,Cruzeiro,win,post_game,positive,38
+2026-03-08-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,loss,post_game,negative,6
+2026-03-08-cru-cam,Gustavo Scarpa,player,player,Atlético-MG,loss,post_game,neutral,5
+2026-03-08-cru-cam,Hulk,player,player,Atlético-MG,loss,post_game,negative,937
+2026-03-08-cru-cam,Hulk,player,player,Atlético-MG,loss,post_game,neutral,488
+2026-03-08-cru-cam,Hulk,player,player,Atlético-MG,loss,post_game,positive,172
+2026-03-08-cru-cam,Igor Gomes,player,player,Atlético-MG,loss,post_game,negative,3
+2026-03-08-cru-cam,Kaiki Bruno,player,player,Cruzeiro,win,post_game,neutral,1
+2026-03-08-cru-cam,Kaio Jorge,player,player,Cruzeiro,win,post_game,negative,62
+2026-03-08-cru-cam,Kaio Jorge,player,player,Cruzeiro,win,post_game,neutral,73
+2026-03-08-cru-cam,Kaio Jorge,player,player,Cruzeiro,win,post_game,positive,40
+2026-03-08-cru-cam,Lucas Romero,player,player,Cruzeiro,win,post_game,negative,31
+2026-03-08-cru-cam,Lucas Romero,player,player,Cruzeiro,win,post_game,neutral,18
+2026-03-08-cru-cam,Lucas Romero,player,player,Cruzeiro,win,post_game,positive,8
+2026-03-08-cru-cam,Lucas Silva,player,player,Cruzeiro,win,post_game,negative,18
+2026-03-08-cru-cam,Lucas Silva,player,player,Cruzeiro,win,post_game,neutral,4
+2026-03-08-cru-cam,Lucas Silva,player,player,Cruzeiro,win,post_game,positive,2
+2026-03-08-cru-cam,Lucas Villalba,player,player,Cruzeiro,win,post_game,negative,3
+2026-03-08-cru-cam,Lucas Villalba,player,player,Cruzeiro,win,post_game,neutral,2
+2026-03-08-cru-cam,Lucas Villalba,player,player,Cruzeiro,win,post_game,positive,2
+2026-03-08-cru-cam,Mamady Cissé,player,player,Atlético-MG,loss,post_game,negative,4
+2026-03-08-cru-cam,Mateo Cassierra,player,player,Atlético-MG,loss,post_game,negative,1
+2026-03-08-cru-cam,Mateo Cassierra,player,player,Atlético-MG,loss,post_game,neutral,1
+2026-03-08-cru-cam,Matheus Henrique,player,player,Cruzeiro,win,post_game,negative,4
+2026-03-08-cru-cam,Matheus Henrique,player,player,Cruzeiro,win,post_game,neutral,5
+2026-03-08-cru-cam,Matheus Henrique,player,player,Cruzeiro,win,post_game,positive,2
+2026-03-08-cru-cam,Matheus Pereira,player,player,Cruzeiro,win,post_game,negative,9
+2026-03-08-cru-cam,Matheus Pereira,player,player,Cruzeiro,win,post_game,neutral,3
+2026-03-08-cru-cam,Matheus Pereira,player,player,Cruzeiro,win,post_game,positive,1
+2026-03-08-cru-cam,Natanael,player,player,Atlético-MG,loss,post_game,negative,1
+2026-03-08-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,negative,5
+2026-03-08-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,neutral,2
+2026-03-08-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,win,post_game,positive,2
+2026-03-08-cru-cam,Renan Lodi,player,player,Atlético-MG,loss,post_game,negative,7
+2026-03-08-cru-cam,Renan Lodi,player,player,Atlético-MG,loss,post_game,neutral,8
+2026-03-08-cru-cam,Renan Lodi,player,player,Atlético-MG,loss,post_game,positive,1
+2026-03-08-cru-cam,Ruan Tressoldi,player,player,Atlético-MG,loss,post_game,neutral,1
+2026-03-08-cru-cam,Ruan Tressoldi,player,player,Atlético-MG,loss,post_game,positive,2
+2026-03-08-cru-cam,Tite,coach,head_coach,Cruzeiro,win,post_game,negative,25
+2026-03-08-cru-cam,Tite,coach,head_coach,Cruzeiro,win,post_game,neutral,9
+2026-03-08-cru-cam,Tite,coach,head_coach,Cruzeiro,win,post_game,positive,10
+2026-03-08-cru-cam,Vitor Hugo,player,player,Atlético-MG,loss,post_game,negative,1
+2026-03-08-cru-cam,Vitor Hugo,player,player,Atlético-MG,loss,post_game,positive,1
+2026-03-08-cru-cam,Wanderson,player,player,Cruzeiro,win,post_game,negative,2
+2026-03-08-cru-cam,William,player,player,Cruzeiro,win,post_game,neutral,2
+2026-03-08-cru-cam,Ángelo Preciado,player,player,Atlético-MG,loss,post_game,negative,6
+2026-03-08-cru-cam,Ángelo Preciado,player,player,Atlético-MG,loss,post_game,neutral,6
+2026-03-08-cru-cam,Ángelo Preciado,player,player,Atlético-MG,loss,post_game,positive,1
+2026-05-02-cru-cam,Alan Minda,player,player,Atlético-MG,win,post_game,negative,3
+2026-05-02-cru-cam,Alan Minda,player,player,Atlético-MG,win,post_game,neutral,3
+2026-05-02-cru-cam,Alan Minda,player,player,Atlético-MG,win,post_game,positive,2
+2026-05-02-cru-cam,Artur Jorge,coach,head_coach,Cruzeiro,loss,post_game,negative,2
+2026-05-02-cru-cam,Bernard,player,player,Atlético-MG,win,post_game,negative,6
+2026-05-02-cru-cam,Bernard,player,player,Atlético-MG,win,post_game,neutral,1
+2026-05-02-cru-cam,Bernard,player,player,Atlético-MG,win,pre_game,neutral,1
+2026-05-02-cru-cam,Bruno Rodrigues,player,player,Cruzeiro,loss,post_game,negative,1
+2026-05-02-cru-cam,Bruno Rodrigues,player,player,Cruzeiro,loss,post_game,neutral,1
+2026-05-02-cru-cam,Christian,player,player,Cruzeiro,loss,post_game,negative,2
+2026-05-02-cru-cam,Everson,player,player,Atlético-MG,win,post_game,negative,3
+2026-05-02-cru-cam,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,negative,7
+2026-05-02-cru-cam,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,neutral,3
+2026-05-02-cru-cam,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,positive,1
+2026-05-02-cru-cam,Gerson,player,player,Cruzeiro,loss,post_game,negative,7
+2026-05-02-cru-cam,Gerson,player,player,Cruzeiro,loss,post_game,neutral,3
+2026-05-02-cru-cam,Gerson,player,player,Cruzeiro,loss,post_game,positive,7
+2026-05-02-cru-cam,Júnior Alonso,player,player,Atlético-MG,win,post_game,negative,8
+2026-05-02-cru-cam,Kaiki Bruno,player,player,Cruzeiro,loss,post_game,negative,1
+2026-05-02-cru-cam,Kaio Jorge,player,player,Cruzeiro,loss,post_game,negative,17
+2026-05-02-cru-cam,Kaio Jorge,player,player,Cruzeiro,loss,post_game,neutral,5
+2026-05-02-cru-cam,Kaio Jorge,player,player,Cruzeiro,loss,post_game,positive,4
+2026-05-02-cru-cam,Keny Arroyo,player,player,Cruzeiro,loss,post_game,negative,11
+2026-05-02-cru-cam,Keny Arroyo,player,player,Cruzeiro,loss,post_game,positive,3
+2026-05-02-cru-cam,Lyanco,player,player,Atlético-MG,win,post_game,negative,500
+2026-05-02-cru-cam,Lyanco,player,player,Atlético-MG,win,post_game,neutral,95
+2026-05-02-cru-cam,Lyanco,player,player,Atlético-MG,win,post_game,positive,32
+2026-05-02-cru-cam,Mateo Cassierra,player,player,Atlético-MG,win,post_game,negative,1
+2026-05-02-cru-cam,Mateo Cassierra,player,player,Atlético-MG,win,post_game,neutral,2
+2026-05-02-cru-cam,Mateo Cassierra,player,player,Atlético-MG,win,post_game,positive,2
+2026-05-02-cru-cam,Matheus Pereira,player,player,Cruzeiro,loss,post_game,negative,5
+2026-05-02-cru-cam,Matheus Pereira,player,player,Cruzeiro,loss,post_game,neutral,1
+2026-05-02-cru-cam,Maycon,player,player,Atlético-MG,win,post_game,negative,2
+2026-05-02-cru-cam,Maycon,player,player,Atlético-MG,win,post_game,neutral,3
+2026-05-02-cru-cam,Maycon,player,player,Atlético-MG,win,post_game,positive,2
+2026-05-02-cru-cam,Natanael,player,player,Atlético-MG,win,post_game,negative,1
+2026-05-02-cru-cam,Otávio,player,player,Cruzeiro,loss,post_game,negative,2
+2026-05-02-cru-cam,Otávio,player,player,Cruzeiro,loss,post_game,neutral,1
+2026-05-02-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,negative,3
+2026-05-02-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,neutral,1
+2026-05-02-cru-cam,Reinier,player,player,Atlético-MG,win,post_game,negative,1
+2026-05-02-cru-cam,Renan Lodi,player,player,Atlético-MG,win,post_game,negative,21
+2026-05-02-cru-cam,Renan Lodi,player,player,Atlético-MG,win,post_game,neutral,11
+2026-05-02-cru-cam,Renan Lodi,player,player,Atlético-MG,win,post_game,positive,5
+2026-08-25-cru-cam,Alan Franco,player,player,Atlético-MG,draw,post_game,negative,2
+2026-08-25-cru-cam,Alan Minda,player,player,Atlético-MG,draw,post_game,negative,7
+2026-08-25-cru-cam,Artur Jorge,coach,head_coach,Cruzeiro,draw,post_game,negative,2
+2026-08-25-cru-cam,Artur Jorge,coach,head_coach,Cruzeiro,draw,post_game,neutral,2
+2026-08-25-cru-cam,Artur Jorge,coach,head_coach,Cruzeiro,draw,post_game,positive,1
+2026-08-25-cru-cam,Bernard,player,player,Atlético-MG,draw,post_game,negative,2
+2026-08-25-cru-cam,Bruno Rodrigues,player,player,Cruzeiro,draw,post_game,negative,47
+2026-08-25-cru-cam,Bruno Rodrigues,player,player,Cruzeiro,draw,post_game,neutral,3
+2026-08-25-cru-cam,Eduardo Domínguez,coach,head_coach,Atlético-MG,draw,post_game,positive,1
+2026-08-25-cru-cam,Everson,player,player,Atlético-MG,draw,post_game,negative,67
+2026-08-25-cru-cam,Everson,player,player,Atlético-MG,draw,post_game,neutral,10
+2026-08-25-cru-cam,Everson,player,player,Atlético-MG,draw,post_game,positive,6
+2026-08-25-cru-cam,Fabrício Bruno,player,player,Cruzeiro,draw,post_game,negative,3
+2026-08-25-cru-cam,Fabrício Bruno,player,player,Cruzeiro,draw,post_game,neutral,1
+2026-08-25-cru-cam,Fagner,player,player,Cruzeiro,draw,post_game,negative,6
+2026-08-25-cru-cam,Fagner,player,player,Cruzeiro,draw,post_game,neutral,4
+2026-08-25-cru-cam,Fagner,player,player,Cruzeiro,draw,post_game,positive,3
+2026-08-25-cru-cam,Fred,player,player,Atlético-MG,draw,post_game,neutral,2
+2026-08-25-cru-cam,Fred,player,player,Atlético-MG,draw,post_game,positive,2
+2026-08-25-cru-cam,Fred,player,player,Atlético-MG,draw,pre_game,negative,1
+2026-08-25-cru-cam,Fred,player,player,Atlético-MG,draw,pre_game,neutral,1
+2026-08-25-cru-cam,Gerson,player,player,Cruzeiro,draw,post_game,negative,7
+2026-08-25-cru-cam,Gerson,player,player,Cruzeiro,draw,post_game,neutral,4
+2026-08-25-cru-cam,Gerson,player,player,Cruzeiro,draw,post_game,positive,1
+2026-08-25-cru-cam,Kaio Jorge,player,player,Cruzeiro,draw,post_game,negative,260
+2026-08-25-cru-cam,Kaio Jorge,player,player,Cruzeiro,draw,post_game,neutral,25
+2026-08-25-cru-cam,Kaio Jorge,player,player,Cruzeiro,draw,post_game,positive,7
+2026-08-25-cru-cam,Keny Arroyo,player,player,Cruzeiro,draw,post_game,negative,23
+2026-08-25-cru-cam,Keny Arroyo,player,player,Cruzeiro,draw,post_game,neutral,10
+2026-08-25-cru-cam,Keny Arroyo,player,player,Cruzeiro,draw,post_game,positive,26
+2026-08-25-cru-cam,Mamady Cissé,player,player,Atlético-MG,draw,post_game,negative,1
+2026-08-25-cru-cam,Mateo Cassierra,player,player,Atlético-MG,draw,post_game,negative,3
+2026-08-25-cru-cam,Matheus Pereira,player,player,Cruzeiro,draw,post_game,negative,5
+2026-08-25-cru-cam,Matheus Pereira,player,player,Cruzeiro,draw,post_game,neutral,2
+2026-08-25-cru-cam,Maycon,player,player,Atlético-MG,draw,post_game,positive,1
+2026-08-25-cru-cam,Natanael,player,player,Atlético-MG,draw,post_game,negative,1
+2026-08-25-cru-cam,Otávio,player,player,Cruzeiro,draw,post_game,negative,5
+2026-08-25-cru-cam,Otávio,player,player,Cruzeiro,draw,post_game,neutral,1
+2026-08-25-cru-cam,Otávio,player,player,Cruzeiro,draw,post_game,positive,1
+2026-08-25-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,draw,post_game,negative,2
+2026-08-25-cru-cam,Pedro Lourenço,management,saf_owner_president,Cruzeiro,draw,post_game,neutral,1
+2026-08-25-cru-cam,Renan Lodi,player,player,Atlético-MG,draw,post_game,negative,3
+2026-08-25-cru-cam,Rodrigo Lasmar,technical_staff,doctor,Atlético-MG,draw,post_game,positive,1
+2026-08-25-cru-cam,Ruan Tressoldi,player,player,Atlético-MG,draw,post_game,negative,3
+2026-08-25-cru-cam,Ruan Tressoldi,player,player,Atlético-MG,draw,post_game,neutral,1
+2026-08-25-cru-cam,Tomás Cuello,player,player,Atlético-MG,draw,post_game,positive,1
+2026-08-25-cru-cam,Vitor Hugo,player,player,Atlético-MG,draw,post_game,negative,1
+2026-08-25-cru-cam,Vitão,player,player,Atlético-MG,draw,post_game,negative,1
+2026-08-25-cru-cam,Vitão,player,player,Atlético-MG,draw,post_game,positive,2
+2026-08-25-cru-cam,Ángelo Preciado,player,player,Atlético-MG,draw,post_game,negative,2
+2026-09-01-cam-cru,Alan Franco,player,player,Atlético-MG,win,post_game,positive,1
+2026-09-01-cam-cru,Alan Minda,player,player,Atlético-MG,win,post_game,negative,1
+2026-09-01-cam-cru,Artur Jorge,coach,head_coach,Cruzeiro,loss,post_game,negative,16
+2026-09-01-cam-cru,Artur Jorge,coach,head_coach,Cruzeiro,loss,post_game,neutral,4
+2026-09-01-cam-cru,Artur Jorge,coach,head_coach,Cruzeiro,loss,post_game,positive,2
+2026-09-01-cam-cru,Bernard,player,player,Atlético-MG,win,post_game,negative,18
+2026-09-01-cam-cru,Bernard,player,player,Atlético-MG,win,post_game,neutral,1
+2026-09-01-cam-cru,Bernard,player,player,Atlético-MG,win,post_game,positive,5
+2026-09-01-cam-cru,Eduardo Domínguez,coach,head_coach,Atlético-MG,win,post_game,negative,1
+2026-09-01-cam-cru,Eduardo Domínguez,coach,head_coach,Atlético-MG,win,post_game,positive,1
+2026-09-01-cam-cru,Everson,player,player,Atlético-MG,win,post_game,negative,4
+2026-09-01-cam-cru,Everson,player,player,Atlético-MG,win,post_game,neutral,2
+2026-09-01-cam-cru,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,negative,7
+2026-09-01-cam-cru,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,neutral,1
+2026-09-01-cam-cru,Fabrício Bruno,player,player,Cruzeiro,loss,post_game,positive,1
+2026-09-01-cam-cru,Fagner,player,player,Cruzeiro,loss,post_game,neutral,3
+2026-09-01-cam-cru,Fred,player,player,Atlético-MG,win,post_game,negative,123
+2026-09-01-cam-cru,Fred,player,player,Atlético-MG,win,post_game,neutral,80
+2026-09-01-cam-cru,Fred,player,player,Atlético-MG,win,post_game,positive,111
+2026-09-01-cam-cru,Gerson,player,player,Cruzeiro,loss,post_game,negative,24
+2026-09-01-cam-cru,Gerson,player,player,Cruzeiro,loss,post_game,neutral,9
+2026-09-01-cam-cru,Gerson,player,player,Cruzeiro,loss,post_game,positive,6
+2026-09-01-cam-cru,Gustavo Scarpa,player,player,Atlético-MG,win,post_game,positive,2
+2026-09-01-cam-cru,Kaio Jorge,player,player,Cruzeiro,loss,post_game,negative,119
+2026-09-01-cam-cru,Kaio Jorge,player,player,Cruzeiro,loss,post_game,neutral,35
+2026-09-01-cam-cru,Kaio Jorge,player,player,Cruzeiro,loss,post_game,positive,26
+2026-09-01-cam-cru,Kaique Kenji,player,player,Cruzeiro,loss,post_game,negative,2
+2026-09-01-cam-cru,Keny Arroyo,player,player,Cruzeiro,loss,post_game,negative,35
+2026-09-01-cam-cru,Keny Arroyo,player,player,Cruzeiro,loss,post_game,neutral,11
+2026-09-01-cam-cru,Keny Arroyo,player,player,Cruzeiro,loss,post_game,positive,2
+2026-09-01-cam-cru,Kevin Castaño,player,player,Atlético-MG,win,post_game,negative,1
+2026-09-01-cam-cru,Kevin Castaño,player,player,Atlético-MG,win,post_game,positive,1
+2026-09-01-cam-cru,Lucas Romero,player,player,Cruzeiro,loss,post_game,negative,7
+2026-09-01-cam-cru,Lucas Romero,player,player,Cruzeiro,loss,post_game,neutral,2
+2026-09-01-cam-cru,Lucas Romero,player,player,Cruzeiro,loss,post_game,positive,3
+2026-09-01-cam-cru,Mateo Cassierra,player,player,Atlético-MG,win,post_game,negative,4
+2026-09-01-cam-cru,Mateo Cassierra,player,player,Atlético-MG,win,post_game,positive,1
+2026-09-01-cam-cru,Matheus Pereira,player,player,Cruzeiro,loss,post_game,negative,14
+2026-09-01-cam-cru,Matheus Pereira,player,player,Cruzeiro,loss,post_game,neutral,9
+2026-09-01-cam-cru,Matheus Pereira,player,player,Cruzeiro,loss,post_game,positive,6
+2026-09-01-cam-cru,Natanael,player,player,Atlético-MG,win,post_game,negative,1
+2026-09-01-cam-cru,Neyser Villarreal,player,player,Cruzeiro,loss,post_game,negative,1
+2026-09-01-cam-cru,Otávio,player,player,Cruzeiro,loss,post_game,negative,10
+2026-09-01-cam-cru,Otávio,player,player,Cruzeiro,loss,post_game,neutral,1
+2026-09-01-cam-cru,Otávio,player,player,Cruzeiro,loss,post_game,positive,6
+2026-09-01-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,negative,12
+2026-09-01-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,neutral,5
+2026-09-01-cam-cru,Pedro Lourenço,management,saf_owner_president,Cruzeiro,loss,post_game,positive,2
+2026-09-01-cam-cru,Reinier,player,player,Atlético-MG,win,post_game,negative,1
+2026-09-01-cam-cru,Reinier,player,player,Atlético-MG,win,post_game,positive,6
+2026-09-01-cam-cru,Renan Lodi,player,player,Atlético-MG,win,post_game,negative,4
+2026-09-01-cam-cru,Renan Lodi,player,player,Atlético-MG,win,post_game,neutral,2
+2026-09-01-cam-cru,Renan Lodi,player,player,Atlético-MG,win,post_game,positive,1
+2026-09-01-cam-cru,Tomás Cuello,player,player,Atlético-MG,win,post_game,negative,7
+2026-09-01-cam-cru,Tomás Cuello,player,player,Atlético-MG,win,post_game,positive,4
+2026-09-01-cam-cru,Victor Hugo,player,player,Atlético-MG,win,post_game,negative,5
+2026-09-01-cam-cru,Victor Hugo,player,player,Atlético-MG,win,post_game,neutral,3
+2026-09-01-cam-cru,Victor Hugo,player,player,Atlético-MG,win,post_game,positive,7
+2026-09-01-cam-cru,Vitor Hugo,player,player,Atlético-MG,win,post_game,negative,2
+2026-09-01-cam-cru,Vitor Hugo,player,player,Atlético-MG,win,post_game,positive,6
+2026-09-01-cam-cru,Vitão,player,player,Atlético-MG,win,post_game,negative,6
+2026-09-01-cam-cru,Vitão,player,player,Atlético-MG,win,post_game,positive,1

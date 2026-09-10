@@ -1,0 +1,12 @@
+﻿file,column,description
+matches_enriched.csv,match_id,"Chave do clássico, preservada do matches.csv."
+matches_enriched.csv,atletico_head_coach / cruzeiro_head_coach,Técnico principal em cada clássico.
+matches_enriched.csv,atletico_management / cruzeiro_management,Resumo dos dirigentes vinculados ao clube na data.
+match_people.csv,entity_id,Identificador estável da pessoa.
+match_people.csv,entity_type,"player, coach, technical_staff ou management."
+match_people.csv,role,"Função: player, head_coach, assistant_coach, doctor, goalkeeper_coach, fitness_coach, masseur, cargos de gestão etc."
+match_people.csv,participation_status,Para jogadores: starter ou substitute_used.
+match_people.csv,source_kind,match_sheet = súmula/ficha do jogo; management_period = vínculo de gestão por período.
+match_people.csv,source_url,Fonte usada para sustentar a relação.
+entities_master.csv,teams_observed,Times nos quais a pessoa aparece dentro dos 10 clássicos.
+entity_aliases.csv,alias_confidence,high = recomendado para mineração automática; medium = usar com cautela.

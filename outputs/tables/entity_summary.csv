@@ -1,0 +1,76 @@
+entity_id,canonical_name,entity_type,team,mentions,comments,matches,negative_share,neutral_share,positive_share
+player_hulk,Hulk,player,Atlético-MG,3517,3517,7,0.5473414842195052,0.2883139038953654,0.16434461188512936
+player_kaio_jorge,Kaio Jorge,player,Cruzeiro,1626,1626,9,0.6519065190651907,0.2220172201722017,0.12607626076260764
+player_cassio,Cássio,player,Cruzeiro,1068,1068,7,0.548689138576779,0.30243445692883897,0.14887640449438203
+player_everson,Everson,player,Atlético-MG,884,884,10,0.751131221719457,0.16063348416289594,0.08823529411764706
+player_lyanco,Lyanco,player,Atlético-MG,882,882,4,0.7630385487528345,0.18027210884353742,0.05668934240362812
+player_gabriel_barbosa,Gabriel Barbosa,player,Cruzeiro,735,735,5,0.5741496598639456,0.22993197278911565,0.19591836734693877
+player_fabricio_bruno,Fabrício Bruno,player,Cruzeiro,687,687,9,0.5516739446870451,0.26346433770014555,0.1848617176128093
+player_gerson,Gerson,player,Cruzeiro,383,383,5,0.5378590078328982,0.3237597911227154,0.13838120104438642
+player_fred,Fred,player,Atlético-MG,320,320,2,0.3875,0.259375,0.353125
+player_dudu,Dudu,player,Atlético-MG,306,306,4,0.5751633986928104,0.3202614379084967,0.10457516339869281
+player_dudu,Dudu,player,Cruzeiro,263,263,1,0.7224334600760456,0.19011406844106463,0.08745247148288973
+management_pedro_lourenco,Pedro Lourenço,management,Cruzeiro,227,227,10,0.2555066079295154,0.12334801762114538,0.6211453744493393
+coach_cuca,Cuca,coach,Atlético-MG,210,210,3,0.5857142857142857,0.21904761904761905,0.19523809523809524
+player_gustavo_scarpa,Gustavo Scarpa,player,Atlético-MG,161,161,8,0.45962732919254656,0.2857142857142857,0.2546583850931677
+player_keny_arroyo,Keny Arroyo,player,Cruzeiro,149,149,5,0.5973154362416108,0.174496644295302,0.22818791946308725
+coach_tite,Tite,coach,Cruzeiro,136,136,2,0.6691176470588235,0.18382352941176472,0.14705882352941177
+player_bernard,Bernard,player,Atlético-MG,125,125,6,0.552,0.32,0.128
+coach_leonardo_jardim,Leonardo Jardim,coach,Cruzeiro,118,118,4,0.3305084745762712,0.288135593220339,0.3813559322033898
+player_matheus_pereira,Matheus Pereira,player,Cruzeiro,107,107,10,0.5046728971962616,0.37383177570093457,0.12149532710280374
+player_guilherme_arana,Guilherme Arana,player,Atlético-MG,106,106,5,0.6132075471698113,0.25471698113207547,0.1320754716981132
+player_lucas_silva,Lucas Silva,player,Cruzeiro,103,103,6,0.3786407766990291,0.21359223300970873,0.4077669902912621
+player_lucas_romero,Lucas Romero,player,Cruzeiro,86,86,6,0.47674418604651164,0.32558139534883723,0.19767441860465115
+player_renan_lodi,Renan Lodi,player,Atlético-MG,68,68,5,0.5588235294117647,0.3088235294117647,0.1323529411764706
+player_bruno_rodrigues,Bruno Rodrigues,player,Cruzeiro,60,60,3,0.85,0.13333333333333333,0.016666666666666666
+player_rony,Rony,player,Atlético-MG,46,46,4,0.6739130434782609,0.21739130434782608,0.10869565217391304
+player_tomas_cuello,Tomás Cuello,player,Atlético-MG,46,46,5,0.3695652173913043,0.17391304347826086,0.45652173913043476
+player_christian,Christian,player,Cruzeiro,34,34,4,0.5,0.3235294117647059,0.17647058823529413
+coach_jorge_sampaoli,Jorge Sampaoli,coach,Atlético-MG,33,33,3,0.48484848484848486,0.2727272727272727,0.24242424242424243
+player_junior_alonso,Júnior Alonso,player,Atlético-MG,33,33,6,0.9393939393939394,0.030303030303030304,0.030303030303030304
+player_fagner,Fagner,player,Cruzeiro,32,32,3,0.5,0.3125,0.1875
+coach_artur_jorge,Artur Jorge,coach,Cruzeiro,29,29,3,0.6896551724137931,0.20689655172413793,0.10344827586206896
+player_otavio,Otávio,player,Cruzeiro,27,27,3,0.6296296296296297,0.1111111111111111,0.25925925925925924
+player_wanderson,Wanderson,player,Cruzeiro,27,27,6,0.5925925925925926,0.18518518518518517,0.2222222222222222
+player_ivan_roman,Iván Román,player,Atlético-MG,23,23,1,0.9565217391304348,0.043478260869565216,0.0
+player_william,William,player,Cruzeiro,23,23,6,0.6521739130434783,0.2608695652173913,0.08695652173913043
+player_maycon,Maycon,player,Atlético-MG,22,22,3,0.4090909090909091,0.36363636363636365,0.22727272727272727
+player_alan_franco,Alan Franco,player,Atlético-MG,20,20,7,0.4,0.35,0.25
+player_alan_minda,Alan Minda,player,Atlético-MG,19,19,4,0.5789473684210527,0.2631578947368421,0.15789473684210525
+player_victor_hugo,Victor Hugo,player,Atlético-MG,17,17,2,0.35294117647058826,0.17647058823529413,0.47058823529411764
+player_mateo_cassierra,Mateo Cassierra,player,Atlético-MG,15,15,4,0.6,0.2,0.2
+player_natanael,Natanael,player,Atlético-MG,15,15,7,0.4666666666666667,0.2,0.3333333333333333
+player_angelo_preciado,Ángelo Preciado,player,Atlético-MG,15,15,2,0.5333333333333333,0.4,0.06666666666666667
+player_matheus_henrique,Matheus Henrique,player,Cruzeiro,14,14,3,0.42857142857142855,0.42857142857142855,0.14285714285714285
+player_gabriel_menino,Gabriel Menino,player,Atlético-MG,13,13,2,0.5384615384615384,0.23076923076923078,0.23076923076923078
+player_vitor_hugo,Vitor Hugo,player,Atlético-MG,13,13,4,0.38461538461538464,0.0,0.6153846153846154
+player_rubens,Rubens,player,Atlético-MG,10,10,2,0.5,0.3,0.2
+player_vitao,Vitão,player,Atlético-MG,10,10,2,0.7,0.0,0.3
+coach_eduardo_dominguez,Eduardo Domínguez,coach,Atlético-MG,9,9,3,0.5555555555555556,0.2222222222222222,0.2222222222222222
+player_igor_gomes,Igor Gomes,player,Atlético-MG,9,9,3,0.7777777777777778,0.0,0.2222222222222222
+player_reinier,Reinier,player,Atlético-MG,8,8,2,0.25,0.0,0.75
+player_ruan_tressoldi,Ruan Tressoldi,player,Atlético-MG,8,8,3,0.375,0.375,0.25
+player_biel,Biel,player,Atlético-MG,7,7,2,0.7142857142857143,0.14285714285714285,0.14285714285714285
+player_lucas_villalba,Lucas Villalba,player,Cruzeiro,7,7,1,0.42857142857142855,0.2857142857142857,0.2857142857142857
+player_leo_aragao,Léo Aragão,player,Cruzeiro,6,6,1,1.0,0.0,0.0
+player_mamady_cisse,Mamady Cissé,player,Atlético-MG,5,5,2,1.0,0.0,0.0
+player_eduardo,Eduardo,player,Cruzeiro,4,4,2,0.5,0.5,0.0
+player_kaiki_bruno,Kaiki Bruno,player,Cruzeiro,4,4,4,0.5,0.5,0.0
+management_paulo_pelaipe,Paulo Pelaipe,management,Cruzeiro,4,4,1,0.5,0.25,0.25
+management_alexandre_mattos,Alexandre Mattos,management,Cruzeiro,3,3,1,1.0,0.0,0.0
+player_alexsander,Alexsander,player,Atlético-MG,3,3,2,1.0,0.0,0.0
+player_caio_paulista,Caio Paulista,player,Atlético-MG,3,3,1,0.6666666666666666,0.3333333333333333,0.0
+player_jonathan_jesus,Jonathan Jesus,player,Cruzeiro,3,3,2,1.0,0.0,0.0
+player_junior_santos,Júnior Santos,player,Atlético-MG,3,3,1,0.6666666666666666,0.0,0.3333333333333333
+player_luis_sinisterra,Luis Sinisterra,player,Cruzeiro,3,3,1,0.3333333333333333,0.6666666666666666,0.0
+player_saravia,Saravia,player,Atlético-MG,3,3,1,0.3333333333333333,0.6666666666666666,0.0
+technical_staff_cuquinha,Cuquinha,technical_staff,Atlético-MG,2,2,1,0.5,0.5,0.0
+player_deyverson,Deyverson,player,Atlético-MG,2,2,1,0.5,0.5,0.0
+player_fausto_vera,Fausto Vera,player,Atlético-MG,2,2,2,1.0,0.0,0.0
+player_kaique_kenji,Kaique Kenji,player,Cruzeiro,2,2,1,1.0,0.0,0.0
+player_kevin_castano,Kevin Castaño,player,Atlético-MG,2,2,1,0.5,0.0,0.5
+player_marquinhos,Marquinhos,player,Cruzeiro,2,2,1,1.0,0.0,0.0
+player_neyser_villarreal,Neyser Villarreal,player,Cruzeiro,1,1,1,1.0,0.0,0.0
+management_pedro_junio,Pedro Junio,management,Cruzeiro,1,1,1,0.0,0.0,1.0
+technical_staff_rodrigo_lasmar,Rodrigo Lasmar,technical_staff,Atlético-MG,1,1,1,0.0,0.0,1.0
+player_walace,Walace,player,Cruzeiro,1,1,1,1.0,0.0,0.0

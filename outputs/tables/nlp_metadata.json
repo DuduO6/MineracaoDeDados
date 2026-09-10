@@ -1,0 +1,21 @@
+{
+  "sentiment_model": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+  "requested_revision": "main",
+  "resolved_revision": "f2f1202b1bdeb07342385c3f807f9c07cd8f5cf8",
+  "transformers_version": "4.57.6",
+  "device": "cpu",
+  "batch_size": 8,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "topics_method": "multilabel_keyword_rules_v1",
+  "entities_method": "alias_dictionary_v1",
+  "limitations": [
+    "ironia e sarcasmo",
+    "domínio YouTube diferente do Twitter",
+    "temas dependem do vocabulário das regras",
+    "entidades dependem dos aliases cadastrados"
+  ]
+}

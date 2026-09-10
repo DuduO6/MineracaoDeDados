@@ -1,0 +1,1306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-09-10">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="negative_share" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="canonical_name" type="string" />
+      <attribute id="1" title="entity_type" type="string" />
+      <attribute id="2" title="team" type="string" />
+    </attributes>
+    <nodes>
+      <node id="player_hulk" label="player_hulk">
+        <attvalues>
+          <attvalue for="0" value="Hulk" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_kaio_jorge" label="player_kaio_jorge">
+        <attvalues>
+          <attvalue for="0" value="Kaio Jorge" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_fabricio_bruno" label="player_fabricio_bruno">
+        <attvalues>
+          <attvalue for="0" value="Fabrício Bruno" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_cassio" label="player_cassio">
+        <attvalues>
+          <attvalue for="0" value="Cássio" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_gabriel_barbosa" label="player_gabriel_barbosa">
+        <attvalues>
+          <attvalue for="0" value="Gabriel Barbosa" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_everson" label="player_everson">
+        <attvalues>
+          <attvalue for="0" value="Everson" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_dudu" label="player_dudu">
+        <attvalues>
+          <attvalue for="0" value="Dudu" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_lyanco" label="player_lyanco">
+        <attvalues>
+          <attvalue for="0" value="Lyanco" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_gerson" label="player_gerson">
+        <attvalues>
+          <attvalue for="0" value="Gerson" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="coach_cuca" label="coach_cuca">
+        <attvalues>
+          <attvalue for="0" value="Cuca" />
+          <attvalue for="1" value="coach" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="coach_leonardo_jardim" label="coach_leonardo_jardim">
+        <attvalues>
+          <attvalue for="0" value="Leonardo Jardim" />
+          <attvalue for="1" value="coach" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_bruno_rodrigues" label="player_bruno_rodrigues">
+        <attvalues>
+          <attvalue for="0" value="Bruno Rodrigues" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_lucas_romero" label="player_lucas_romero">
+        <attvalues>
+          <attvalue for="0" value="Lucas Romero" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_matheus_pereira" label="player_matheus_pereira">
+        <attvalues>
+          <attvalue for="0" value="Matheus Pereira" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_gustavo_scarpa" label="player_gustavo_scarpa">
+        <attvalues>
+          <attvalue for="0" value="Gustavo Scarpa" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_christian" label="player_christian">
+        <attvalues>
+          <attvalue for="0" value="Christian" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_tomas_cuello" label="player_tomas_cuello">
+        <attvalues>
+          <attvalue for="0" value="Tomás Cuello" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_ivan_roman" label="player_ivan_roman">
+        <attvalues>
+          <attvalue for="0" value="Iván Román" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_lucas_silva" label="player_lucas_silva">
+        <attvalues>
+          <attvalue for="0" value="Lucas Silva" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="management_pedro_lourenco" label="management_pedro_lourenco">
+        <attvalues>
+          <attvalue for="0" value="Pedro Lourenço" />
+          <attvalue for="1" value="management" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_renan_lodi" label="player_renan_lodi">
+        <attvalues>
+          <attvalue for="0" value="Renan Lodi" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_bernard" label="player_bernard">
+        <attvalues>
+          <attvalue for="0" value="Bernard" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="coach_tite" label="coach_tite">
+        <attvalues>
+          <attvalue for="0" value="Tite" />
+          <attvalue for="1" value="coach" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_keny_arroyo" label="player_keny_arroyo">
+        <attvalues>
+          <attvalue for="0" value="Keny Arroyo" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_william" label="player_william">
+        <attvalues>
+          <attvalue for="0" value="William" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_guilherme_arana" label="player_guilherme_arana">
+        <attvalues>
+          <attvalue for="0" value="Guilherme Arana" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_matheus_henrique" label="player_matheus_henrique">
+        <attvalues>
+          <attvalue for="0" value="Matheus Henrique" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_wanderson" label="player_wanderson">
+        <attvalues>
+          <attvalue for="0" value="Wanderson" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_rony" label="player_rony">
+        <attvalues>
+          <attvalue for="0" value="Rony" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_alan_franco" label="player_alan_franco">
+        <attvalues>
+          <attvalue for="0" value="Alan Franco" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_alan_minda" label="player_alan_minda">
+        <attvalues>
+          <attvalue for="0" value="Alan Minda" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_mateo_cassierra" label="player_mateo_cassierra">
+        <attvalues>
+          <attvalue for="0" value="Mateo Cassierra" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_lucas_villalba" label="player_lucas_villalba">
+        <attvalues>
+          <attvalue for="0" value="Lucas Villalba" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_angelo_preciado" label="player_angelo_preciado">
+        <attvalues>
+          <attvalue for="0" value="Ángelo Preciado" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_fred" label="player_fred">
+        <attvalues>
+          <attvalue for="0" value="Fred" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_junior_alonso" label="player_junior_alonso">
+        <attvalues>
+          <attvalue for="0" value="Júnior Alonso" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="management_paulo_pelaipe" label="management_paulo_pelaipe">
+        <attvalues>
+          <attvalue for="0" value="Paulo Pelaipe" />
+          <attvalue for="1" value="management" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="player_ruan_tressoldi" label="player_ruan_tressoldi">
+        <attvalues>
+          <attvalue for="0" value="Ruan Tressoldi" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="coach_jorge_sampaoli" label="coach_jorge_sampaoli">
+        <attvalues>
+          <attvalue for="0" value="Jorge Sampaoli" />
+          <attvalue for="1" value="coach" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_maycon" label="player_maycon">
+        <attvalues>
+          <attvalue for="0" value="Maycon" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_natanael" label="player_natanael">
+        <attvalues>
+          <attvalue for="0" value="Natanael" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_rubens" label="player_rubens">
+        <attvalues>
+          <attvalue for="0" value="Rubens" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_igor_gomes" label="player_igor_gomes">
+        <attvalues>
+          <attvalue for="0" value="Igor Gomes" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_saravia" label="player_saravia">
+        <attvalues>
+          <attvalue for="0" value="Saravia" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_gabriel_menino" label="player_gabriel_menino">
+        <attvalues>
+          <attvalue for="0" value="Gabriel Menino" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_alexsander" label="player_alexsander">
+        <attvalues>
+          <attvalue for="0" value="Alexsander" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Atlético-MG" />
+        </attvalues>
+      </node>
+      <node id="player_eduardo" label="player_eduardo">
+        <attvalues>
+          <attvalue for="0" value="Eduardo" />
+          <attvalue for="1" value="player" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+      <node id="coach_artur_jorge" label="coach_artur_jorge">
+        <attvalues>
+          <attvalue for="0" value="Artur Jorge" />
+          <attvalue for="1" value="coach" />
+          <attvalue for="2" value="Cruzeiro" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="player_hulk" target="player_kaio_jorge" id="0" weight="132">
+        <attvalues>
+          <attvalue for="3" value="0.5378787878787878" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_fabricio_bruno" id="1" weight="104">
+        <attvalues>
+          <attvalue for="3" value="0.6442307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_cassio" id="2" weight="90">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_everson" id="3" weight="73">
+        <attvalues>
+          <attvalue for="3" value="0.6438356164383562" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_gabriel_barbosa" id="4" weight="58">
+        <attvalues>
+          <attvalue for="3" value="0.4827586206896552" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_gerson" id="5" weight="56">
+        <attvalues>
+          <attvalue for="3" value="0.5714285714285714" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_dudu" id="6" weight="43">
+        <attvalues>
+          <attvalue for="3" value="0.6976744186046512" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_lyanco" id="7" weight="28">
+        <attvalues>
+          <attvalue for="3" value="0.7857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_lucas_romero" id="8" weight="24">
+        <attvalues>
+          <attvalue for="3" value="0.5416666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_gustavo_scarpa" id="9" weight="19">
+        <attvalues>
+          <attvalue for="3" value="0.631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_tomas_cuello" id="10" weight="15">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="coach_cuca" id="11" weight="11">
+        <attvalues>
+          <attvalue for="3" value="0.7272727272727273" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_bernard" id="12" weight="11">
+        <attvalues>
+          <attvalue for="3" value="0.36363636363636365" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_renan_lodi" id="13" weight="8">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_lucas_silva" id="14" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.42857142857142855" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_lucas_villalba" id="15" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_angelo_preciado" id="16" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_guilherme_arana" id="17" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_matheus_pereira" id="18" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="coach_jorge_sampaoli" id="19" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_maycon" id="20" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.75" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_christian" id="21" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_william" id="22" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_rubens" id="23" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="coach_leonardo_jardim" id="24" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_igor_gomes" id="25" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_rony" id="26" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_matheus_henrique" id="27" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="coach_tite" id="28" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_hulk" target="player_alan_franco" id="29" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_everson" id="30" weight="24">
+        <attvalues>
+          <attvalue for="3" value="0.75" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_matheus_pereira" id="31" weight="22">
+        <attvalues>
+          <attvalue for="3" value="0.4090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_fabricio_bruno" id="32" weight="19">
+        <attvalues>
+          <attvalue for="3" value="0.21052631578947367" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_gerson" id="33" weight="19">
+        <attvalues>
+          <attvalue for="3" value="0.42105263157894735" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_cassio" id="34" weight="18">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_gabriel_barbosa" id="35" weight="16">
+        <attvalues>
+          <attvalue for="3" value="0.5625" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_ivan_roman" id="36" weight="14">
+        <attvalues>
+          <attvalue for="3" value="0.9285714285714286" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_keny_arroyo" id="37" weight="9">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_dudu" id="38" weight="9">
+        <attvalues>
+          <attvalue for="3" value="0.8888888888888888" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_lucas_silva" id="39" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.2857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_lucas_romero" id="40" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.5714285714285714" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_bruno_rodrigues" id="41" weight="6">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_christian" id="42" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_william" id="43" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_fred" id="44" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_renan_lodi" id="45" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="management_pedro_lourenco" id="46" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_ruan_tressoldi" id="47" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_angelo_preciado" id="48" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="player_lyanco" id="49" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="coach_cuca" id="50" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_kaio_jorge" target="coach_leonardo_jardim" id="51" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_gabriel_barbosa" id="52" weight="41">
+        <attvalues>
+          <attvalue for="3" value="0.4878048780487805" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_cassio" id="53" weight="33">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_lyanco" id="54" weight="29">
+        <attvalues>
+          <attvalue for="3" value="0.7241379310344828" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_dudu" id="55" weight="21">
+        <attvalues>
+          <attvalue for="3" value="0.7142857142857143" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="coach_cuca" id="56" weight="16">
+        <attvalues>
+          <attvalue for="3" value="0.375" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="coach_leonardo_jardim" id="57" weight="16">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_everson" id="58" weight="10">
+        <attvalues>
+          <attvalue for="3" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_lucas_romero" id="59" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_gerson" id="60" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.7142857142857143" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_matheus_pereira" id="61" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.2857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_guilherme_arana" id="62" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_alan_franco" id="63" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_lucas_silva" id="64" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_christian" id="65" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_tomas_cuello" id="66" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_william" id="67" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="management_pedro_lourenco" id="68" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_fabricio_bruno" target="player_bernard" id="69" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_gabriel_barbosa" id="70" weight="73">
+        <attvalues>
+          <attvalue for="3" value="0.5205479452054794" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_gerson" id="71" weight="42">
+        <attvalues>
+          <attvalue for="3" value="0.6904761904761905" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_everson" id="72" weight="36">
+        <attvalues>
+          <attvalue for="3" value="0.5833333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_dudu" id="73" weight="32">
+        <attvalues>
+          <attvalue for="3" value="0.6875" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_lucas_silva" id="74" weight="14">
+        <attvalues>
+          <attvalue for="3" value="0.6428571428571429" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="coach_tite" id="75" weight="9">
+        <attvalues>
+          <attvalue for="3" value="0.8888888888888888" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_william" id="76" weight="8">
+        <attvalues>
+          <attvalue for="3" value="0.625" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_christian" id="77" weight="8">
+        <attvalues>
+          <attvalue for="3" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_lucas_romero" id="78" weight="8">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_matheus_henrique" id="79" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="coach_leonardo_jardim" id="80" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_renan_lodi" id="81" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_wanderson" id="82" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="coach_cuca" id="83" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_gustavo_scarpa" id="84" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.8" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_guilherme_arana" id="85" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_matheus_pereira" id="86" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="management_pedro_lourenco" id="87" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_tomas_cuello" id="88" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_angelo_preciado" id="89" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_lyanco" id="90" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_cassio" target="player_alan_franco" id="91" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_gabriel_barbosa" target="player_dudu" id="92" weight="52">
+        <attvalues>
+          <attvalue for="3" value="0.7884615384615384" />
+        </attvalues>
+      </edge>
+      <edge source="player_gabriel_barbosa" target="player_lyanco" id="93" weight="27">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_gabriel_barbosa" target="player_matheus_pereira" id="94" weight="8">
+        <attvalues>
+          <attvalue for="3" value="0.375" />
+        </attvalues>
+      </edge>
+      <edge source="player_gabriel_barbosa" target="coach_leonardo_jardim" id="95" weight="5">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_gabriel_barbosa" target="management_pedro_lourenco" id="96" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_gabriel_barbosa" target="coach_cuca" id="97" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_gabriel_barbosa" target="player_eduardo" id="98" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_bruno_rodrigues" id="99" weight="30">
+        <attvalues>
+          <attvalue for="3" value="0.9333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_gerson" id="100" weight="18">
+        <attvalues>
+          <attvalue for="3" value="0.7777777777777778" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_christian" id="101" weight="16">
+        <attvalues>
+          <attvalue for="3" value="0.6875" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_lucas_romero" id="102" weight="10">
+        <attvalues>
+          <attvalue for="3" value="0.6" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_renan_lodi" id="103" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.2857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_dudu" id="104" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.8" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_guilherme_arana" id="105" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_alan_franco" id="106" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="coach_cuca" id="107" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_angelo_preciado" id="108" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_lucas_silva" id="109" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_alan_minda" id="110" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="player_gustavo_scarpa" id="111" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_everson" target="coach_leonardo_jardim" id="112" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="player_lyanco" id="113" weight="57">
+        <attvalues>
+          <attvalue for="3" value="0.7719298245614035" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="player_gustavo_scarpa" id="114" weight="12">
+        <attvalues>
+          <attvalue for="3" value="0.5833333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="player_bernard" id="115" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="management_pedro_lourenco" id="116" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="player_rony" id="117" weight="5">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="coach_cuca" id="118" weight="4">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="player_gerson" id="119" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="player_matheus_pereira" id="120" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_dudu" target="coach_jorge_sampaoli" id="121" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_lyanco" target="player_renan_lodi" id="122" weight="11">
+        <attvalues>
+          <attvalue for="3" value="0.9090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="player_lyanco" target="player_gustavo_scarpa" id="123" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.5714285714285714" />
+        </attvalues>
+      </edge>
+      <edge source="player_lyanco" target="player_junior_alonso" id="124" weight="5">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_lyanco" target="player_keny_arroyo" id="125" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_lyanco" target="player_bernard" id="126" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_matheus_pereira" id="127" weight="10">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="coach_tite" id="128" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_fred" id="129" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_lucas_silva" id="130" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.6" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_renan_lodi" id="131" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="management_pedro_lourenco" id="132" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.75" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_matheus_henrique" id="133" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_maycon" id="134" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_gustavo_scarpa" id="135" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_gerson" target="player_angelo_preciado" id="136" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="coach_cuca" target="coach_leonardo_jardim" id="137" weight="44">
+        <attvalues>
+          <attvalue for="3" value="0.38636363636363635" />
+        </attvalues>
+      </edge>
+      <edge source="coach_cuca" target="player_guilherme_arana" id="138" weight="8">
+        <attvalues>
+          <attvalue for="3" value="0.625" />
+        </attvalues>
+      </edge>
+      <edge source="coach_cuca" target="management_paulo_pelaipe" id="139" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="coach_cuca" target="player_alan_franco" id="140" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="coach_cuca" target="player_tomas_cuello" id="141" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="coach_leonardo_jardim" target="management_pedro_lourenco" id="142" weight="14">
+        <attvalues>
+          <attvalue for="3" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="coach_leonardo_jardim" target="player_guilherme_arana" id="143" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.6" />
+        </attvalues>
+      </edge>
+      <edge source="coach_leonardo_jardim" target="player_wanderson" id="144" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="coach_leonardo_jardim" target="player_tomas_cuello" id="145" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="coach_leonardo_jardim" target="player_alan_franco" id="146" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="coach_leonardo_jardim" target="player_lucas_romero" id="147" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_romero" target="player_lucas_silva" id="148" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.2857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_romero" target="player_christian" id="149" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_romero" target="player_alan_franco" id="150" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_romero" target="player_lucas_villalba" id="151" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_romero" target="player_matheus_pereira" id="152" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_matheus_pereira" target="player_lucas_silva" id="153" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_matheus_pereira" target="player_gustavo_scarpa" id="154" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+      <edge source="player_matheus_pereira" target="player_keny_arroyo" id="155" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="player_matheus_pereira" target="player_renan_lodi" id="156" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_matheus_pereira" target="player_fred" id="157" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_gustavo_scarpa" target="player_rony" id="158" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_gustavo_scarpa" target="player_guilherme_arana" id="159" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_gustavo_scarpa" target="player_tomas_cuello" id="160" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_gustavo_scarpa" target="player_bernard" id="161" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_gustavo_scarpa" target="player_lucas_silva" id="162" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_gustavo_scarpa" target="player_rubens" id="163" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_gustavo_scarpa" target="player_alexsander" id="164" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_christian" target="player_matheus_henrique" id="165" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_tomas_cuello" target="player_rubens" id="166" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_tomas_cuello" target="player_guilherme_arana" id="167" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_tomas_cuello" target="player_wanderson" id="168" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_silva" target="player_william" id="169" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.5714285714285714" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_silva" target="management_pedro_lourenco" id="170" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_silva" target="player_wanderson" id="171" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.8" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_silva" target="coach_tite" id="172" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.75" />
+        </attvalues>
+      </edge>
+      <edge source="player_lucas_silva" target="player_guilherme_arana" id="173" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="management_pedro_lourenco" target="coach_tite" id="174" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.6" />
+        </attvalues>
+      </edge>
+      <edge source="management_pedro_lourenco" target="coach_artur_jorge" id="175" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_renan_lodi" target="player_angelo_preciado" id="176" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_renan_lodi" target="player_alan_minda" id="177" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_renan_lodi" target="player_bernard" id="178" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_bernard" target="player_angelo_preciado" id="179" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_bernard" target="player_alan_minda" id="180" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_bernard" target="player_natanael" id="181" weight="3">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="coach_tite" target="player_wanderson" id="182" weight="5">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="coach_tite" target="player_william" id="183" weight="4">
+        <attvalues>
+          <attvalue for="3" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="player_william" target="player_wanderson" id="184" weight="7">
+        <attvalues>
+          <attvalue for="3" value="0.7142857142857143" />
+        </attvalues>
+      </edge>
+      <edge source="player_guilherme_arana" target="player_alan_franco" id="185" weight="4">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_guilherme_arana" target="player_saravia" id="186" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="player_rony" target="player_gabriel_menino" id="187" weight="3">
+        <attvalues>
+          <attvalue for="3" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="player_alan_minda" target="player_mateo_cassierra" id="188" weight="6">
+        <attvalues>
+          <attvalue for="3" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="player_alan_minda" target="player_angelo_preciado" id="189" weight="5">
+        <attvalues>
+          <attvalue for="3" value="0.4" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

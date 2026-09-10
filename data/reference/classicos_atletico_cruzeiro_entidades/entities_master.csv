@@ -1,0 +1,133 @@
+﻿entity_id,canonical_name,entity_type,teams_observed,roles_observed,first_classic_date,last_classic_date
+coach_artur_jorge,Artur Jorge,coach,Cruzeiro,head_coach,2026-05-02,2026-09-01
+coach_cuca,Cuca,coach,Atlético-MG,head_coach,2025-02-09,2025-08-27
+coach_eduardo_dominguez,Eduardo Domínguez,coach,Atlético-MG,head_coach,2026-03-08,2026-09-01
+coach_jorge_sampaoli,Jorge Sampaoli,coach,Atlético-MG,head_coach,2025-09-11,2026-01-25
+coach_leonardo_jardim,Leonardo Jardim,coach,Cruzeiro,head_coach,2025-05-18,2025-10-15
+coach_tite,Tite,coach,Cruzeiro,head_coach,2026-01-25,2026-03-08
+coach_wesley_de_carvalho,Wesley de Carvalho,coach,Cruzeiro,head_coach,2025-02-09,2025-02-09
+management_alexandre_mattos,Alexandre Mattos,management,Cruzeiro,football_ceo,2025-02-09,2025-05-18
+management_bruno_muzzi,Bruno Muzzi,management,Atlético-MG,saf_ceo,2025-02-09,2025-10-15
+management_bruno_spindel,Bruno Spindel,management,Cruzeiro,football_director,2026-01-25,2026-09-01
+management_guilherme_alves,Guilherme Alves,management,Atlético-MG,technical_director,2026-08-25,2026-09-01
+management_joaquim_pinto,Joaquim Pinto,management,Cruzeiro,sporting_director,2026-01-25,2026-09-01
+management_paulo_bracks,Paulo Bracks,management,Atlético-MG,cso_football;vp_football,2025-02-09,2026-09-01
+management_paulo_pelaipe,Paulo Pelaipe,management,Cruzeiro,executive_football_director,2025-02-09,2025-10-15
+management_pedro_daniel,Pedro Daniel,management,Atlético-MG,saf_ceo,2026-01-25,2026-09-01
+management_pedro_junio,Pedro Junio,management,Cruzeiro,saf_vice_president;saf_vice_president_football_lead,2025-02-09,2026-09-01
+management_pedro_lourenco,Pedro Lourenço,management,Cruzeiro,saf_owner_president,2025-02-09,2026-09-01
+management_rafael_menin,Rafael Menin,management,Atlético-MG,saf_shareholder,2025-02-09,2026-09-01
+management_rodrigo_ramos,Rodrigo Ramos,management,Cruzeiro,executive_football_manager;football_manager,2025-02-09,2026-09-01
+management_sergio_coelho,Sérgio Coelho,management,Atlético-MG,association_president,2025-02-09,2026-09-01
+management_victor_bagy,Victor Bagy,management,Atlético-MG,football_director,2025-02-09,2025-10-15
+player_alan_franco,Alan Franco,player,Atlético-MG,player,2025-02-09,2026-09-01
+player_alan_minda,Alan Minda,player,Atlético-MG,player,2026-03-08,2026-09-01
+player_alexsander,Alexsander,player,Atlético-MG,player,2025-08-27,2026-01-25
+player_bernard,Bernard,player,Atlético-MG,player,2025-02-09,2026-09-01
+player_biel,Biel,player,Atlético-MG,player,2025-08-27,2025-10-15
+player_bolasie,Bolasie,player,Cruzeiro,player,2025-02-09,2025-05-18
+player_brahian_palacios,Brahian Palacios,player,Atlético-MG,player,2025-02-09,2025-02-09
+player_bruno_rodrigues,Bruno Rodrigues,player,Cruzeiro,player,2026-03-08,2026-08-25
+player_caio_paulista,Caio Paulista,player,Atlético-MG,player,2025-10-15,2025-10-15
+player_caua_soares,Cauã Soares,player,Atlético-MG,player,2026-05-02,2026-05-02
+player_chico_da_costa,Chico da Costa,player,Cruzeiro,player,2026-01-25,2026-01-25
+player_christian,Christian,player,Cruzeiro,player,2025-02-09,2026-05-02
+player_cassio,Cássio,player,Cruzeiro,player,2025-02-09,2026-03-08
+player_deyverson,Deyverson,player,Atlético-MG,player,2025-02-09,2025-02-09
+player_dudu,Dudu,player,Atlético-MG;Cruzeiro,player,2025-02-09,2026-03-08
+player_eduardo,Eduardo,player,Cruzeiro,player,2025-02-09,2025-10-15
+player_everson,Everson,player,Atlético-MG,player,2025-02-09,2026-09-01
+player_fabricio_bruno,Fabrício Bruno,player,Cruzeiro,player,2025-02-09,2026-09-01
+player_fagner,Fagner,player,Cruzeiro,player,2025-05-18,2026-09-01
+player_fausto_vera,Fausto Vera,player,Atlético-MG,player,2025-05-18,2025-10-15
+player_fred,Fred,player,Atlético-MG,player,2026-08-25,2026-09-01
+player_gabriel_barbosa,Gabriel Barbosa,player,Cruzeiro,player,2025-02-09,2025-10-15
+player_gabriel_menino,Gabriel Menino,player,Atlético-MG,player,2025-02-09,2025-10-15
+player_gabriel_rojas,Gabriel Rojas,player,Cruzeiro,player,2026-09-01,2026-09-01
+player_gerson,Gerson,player,Cruzeiro,player,2026-01-25,2026-09-01
+player_guilherme_arana,Guilherme Arana,player,Atlético-MG,player,2025-02-09,2025-10-15
+player_gustavo_scarpa,Gustavo Scarpa,player,Atlético-MG,player,2025-02-09,2026-09-01
+player_hulk,Hulk,player,Atlético-MG,player,2025-02-09,2026-03-08
+player_igor_gomes,Igor Gomes,player,Atlético-MG,player,2025-05-18,2026-03-08
+player_igor_rabello,Igor Rabello,player,Atlético-MG,player,2025-02-09,2025-02-09
+player_ivan_roman,Iván Román,player,Atlético-MG,player,2025-10-15,2025-10-15
+player_japa,Japa,player,Cruzeiro,player,2026-01-25,2026-01-25
+player_jonathan_jesus,Jonathan Jesus,player,Cruzeiro,player,2025-02-09,2026-09-01
+player_joao_costa,João Costa,player,Cruzeiro,player,2026-08-25,2026-08-25
+player_joao_marcelo,João Marcelo,player,Cruzeiro,player,2026-05-02,2026-09-01
+player_junior_alonso,Júnior Alonso,player,Atlético-MG,player,2025-02-09,2026-05-02
+player_junior_santos,Júnior Santos,player,Atlético-MG,player,2025-05-18,2025-05-18
+player_kaiki_bruno,Kaiki Bruno,player,Cruzeiro,player,2025-02-09,2026-05-02
+player_kaio_jorge,Kaio Jorge,player,Cruzeiro,player,2025-05-18,2026-09-01
+player_kaique_kenji,Kaique Kenji,player,Cruzeiro,player,2026-09-01,2026-09-01
+player_kaua_moraes,Kauã Moraes,player,Cruzeiro,player,2026-05-02,2026-05-02
+player_kaua_pascini,Kauã Pascini,player,Atlético-MG,player,2026-05-02,2026-05-02
+player_keny_arroyo,Keny Arroyo,player,Cruzeiro,player,2025-10-15,2026-09-01
+player_kevin_castano,Kevin Castaño,player,Atlético-MG,player,2026-08-25,2026-09-01
+player_lautaro_diaz,Lautaro Díaz,player,Cruzeiro,player,2025-02-09,2025-02-09
+player_lucas_romero,Lucas Romero,player,Cruzeiro,player,2025-02-09,2026-09-01
+player_lucas_silva,Lucas Silva,player,Cruzeiro,player,2025-05-18,2026-03-08
+player_lucas_villalba,Lucas Villalba,player,Cruzeiro,player,2025-05-18,2026-09-01
+player_luis_sinisterra,Luis Sinisterra,player,Cruzeiro,player,2025-09-11,2025-09-11
+player_lyanco,Lyanco,player,Atlético-MG,player,2025-02-09,2026-05-02
+player_leo_aragao,Léo Aragão,player,Cruzeiro,player,2025-10-15,2025-10-15
+player_mamady_cisse,Mamady Cissé,player,Atlético-MG,player,2026-03-08,2026-08-25
+player_marquinhos,Marquinhos,player,Cruzeiro,player,2025-02-09,2025-02-09
+player_mateo_cassierra,Mateo Cassierra,player,Atlético-MG,player,2026-03-08,2026-09-01
+player_matheus_henrique,Matheus Henrique,player,Cruzeiro,player,2025-02-09,2026-09-01
+player_matheus_pereira,Matheus Pereira,player,Cruzeiro,player,2025-02-09,2026-09-01
+player_maycon,Maycon,player,Atlético-MG,player,2026-01-25,2026-08-25
+player_natanael,Natanael,player,Atlético-MG,player,2025-02-09,2026-09-01
+player_neyser_villarreal,Neyser Villarreal,player,Cruzeiro,player,2026-05-02,2026-09-01
+player_otavio,Otávio,player,Cruzeiro,player,2026-05-02,2026-09-01
+player_otavio_henrique,Otávio Henrique,player,Atlético-MG,player,2025-02-09,2025-02-09
+player_patrick,Patrick,player,Atlético-MG,player,2025-05-18,2025-05-18
+player_reinier,Reinier,player,Atlético-MG,player,2025-08-27,2026-09-01
+player_renan_lodi,Renan Lodi,player,Atlético-MG,player,2026-01-25,2026-09-01
+player_rony,Rony,player,Atlético-MG,player,2025-05-18,2025-10-15
+player_ruan_tressoldi,Ruan Tressoldi,player,Atlético-MG,player,2025-10-15,2026-09-01
+player_rubens,Rubens,player,Atlético-MG,player,2025-02-09,2025-05-18
+player_saravia,Saravia,player,Atlético-MG,player,2025-10-15,2025-10-15
+player_thiago_borbas,Thiago Borbas,player,Atlético-MG,player,2026-08-25,2026-08-25
+player_tomas_cuello,Tomás Cuello,player,Atlético-MG,player,2025-02-09,2026-09-01
+player_tomas_perez,Tomás Pérez,player,Atlético-MG,player,2026-05-02,2026-05-02
+player_victor_hugo,Victor Hugo,player,Atlético-MG,player,2026-01-25,2026-09-01
+player_vitor_hugo,Vitor Hugo,player,Atlético-MG,player,2025-05-18,2026-09-01
+player_vitao,Vitão,player,Atlético-MG,player,2026-08-25,2026-09-01
+player_walace,Walace,player,Cruzeiro,player,2025-09-11,2025-10-15
+player_wanderson,Wanderson,player,Cruzeiro,player,2025-05-18,2026-05-02
+player_wesley_teixeira,Wesley Teixeira,player,Cruzeiro,player,2026-08-25,2026-09-01
+player_william,William,player,Cruzeiro,player,2025-02-09,2026-08-25
+player_angelo_preciado,Ángelo Preciado,player,Atlético-MG,player,2026-01-25,2026-08-25
+technical_staff_adrian_vaccarini,Adrián Vaccarini,technical_staff,Atlético-MG,fitness_coach,2026-03-08,2026-09-01
+technical_staff_alexandre_willian_pinto_coelho,Alexandre Willian Pinto Coelho,technical_staff,Atlético-MG,masseur,2026-05-02,2026-05-02
+technical_staff_aluizio_carlos_dos_santos,Aluizio Carlos dos Santos,technical_staff,Atlético-MG,masseur,2025-02-09,2026-03-08
+technical_staff_andre_albino_carvalho_da_cunha,André Albino Carvalho Da Cunha,technical_staff,Cruzeiro,masseur,2026-05-02,2026-05-02
+technical_staff_antonio_augusto_duarte_baptista,Antonio Augusto Duarte Baptista,technical_staff,Cruzeiro,masseur,2025-02-09,2025-02-09
+technical_staff_antonio_manuel_martins_vieira,António Manuel Martins Vieira,technical_staff,Cruzeiro,assistant_coach,2025-05-18,2025-10-15
+technical_staff_cristiano_garcia_nunes,Cristiano Garcia Nunes,technical_staff,Atlético-MG,fitness_coach,2025-02-09,2025-05-18
+technical_staff_cuquinha,Cuquinha,technical_staff,Atlético-MG,assistant_coach,2025-02-09,2025-08-27
+technical_staff_danilo_jose_prando_minutti,Danilo José Prando Minutti,technical_staff,Atlético-MG,goalkeeper_coach,2025-02-09,2026-03-08
+technical_staff_danilo_minutti,Danilo Minutti,technical_staff,Atlético-MG,goalkeeper_coach,2026-05-02,2026-09-01
+technical_staff_diogo_alves,Diogo Alves,technical_staff,Atlético-MG,assistant_coach,2025-09-11,2026-01-25
+technical_staff_fabricio_rocha_de_carvalho,Fabrício Rocha de Carvalho,technical_staff,Atlético-MG,masseur,2026-08-25,2026-09-01
+technical_staff_fabio_mahseredjian,Fábio Mahseredjian,technical_staff,Cruzeiro,fitness_coach,2026-01-25,2026-03-08
+technical_staff_gustavo_mendes_shiroma,Gustavo Mendes Shiroma,technical_staff,Cruzeiro,fitness_coach,2025-05-18,2025-10-15
+technical_staff_henrique_bueno_americo,Henrique Bueno Américo,technical_staff,Cruzeiro,assistant_coach,2025-02-09,2025-02-09
+technical_staff_jose_omar_alves_feitosa,José Omar Alves Feitosa,technical_staff,Cruzeiro,fitness_coach,2025-02-09,2025-02-09
+technical_staff_joao_pedro_campos_cardoso,João Pedro Campos Cardoso,technical_staff,Cruzeiro,assistant_coach,2026-05-02,2026-09-01
+technical_staff_leandro_diaz,Leandro Díaz,technical_staff,Atlético-MG,assistant_coach,2026-03-08,2026-09-01
+technical_staff_matheus_rizzi_bachi,Matheus Rizzi Bachi,technical_staff,Cruzeiro,assistant_coach,2026-01-25,2026-03-08
+technical_staff_otaviano_de_oliveira_junior,Otaviano de Oliveira Júnior,technical_staff,Atlético-MG,doctor,2025-10-15,2025-10-15
+technical_staff_pablo_candido_fernandez,Pablo Candido Fernandez,technical_staff,Atlético-MG,fitness_coach,2025-09-11,2025-10-15
+technical_staff_ricardo_herlland_seguins_de_lima,Ricardo Herlland Seguins de Lima,technical_staff,Atlético-MG,fitness_coach,2025-08-27,2026-01-25
+technical_staff_robertinho,Robertinho,technical_staff,Cruzeiro,goalkeeper_coach,2026-05-02,2026-09-01
+technical_staff_roberto_barbosa_dos_santos,Roberto Barbosa dos Santos,technical_staff,Cruzeiro,goalkeeper_coach,2025-02-09,2025-10-15
+technical_staff_rodrigo_barreiros_vieira,Rodrigo Barreiros Vieira,technical_staff,Atlético-MG,doctor,2026-01-25,2026-01-25
+technical_staff_rodrigo_lasmar,Rodrigo Lasmar,technical_staff,Atlético-MG,doctor,2025-02-09,2026-09-01
+technical_staff_rodrigo_mascarenhas,Rodrigo Mascarenhas,technical_staff,Cruzeiro,doctor,2026-08-25,2026-09-01
+technical_staff_sergio_augusto_campolina_de_azeredo,Sergio Augusto Campolina de Azeredo,technical_staff,Cruzeiro,doctor,2025-02-09,2026-03-08
+technical_staff_sergio_campolina,Sérgio Campolina,technical_staff,Cruzeiro,doctor,2026-05-02,2026-05-02
+technical_staff_thiago_daniel_macedo_silva,Thiago Daniel Macedo Silva,technical_staff,Cruzeiro,doctor,2025-08-27,2026-01-25
+technical_staff_tiago_andre_lopes_senra,Tiago Andre Lopes Senra,technical_staff,Cruzeiro,fitness_coach,2026-05-02,2026-09-01
+technical_staff_vinicius_bergantin,Vinícius Bergantin,technical_staff,Cruzeiro,goalkeeper_coach,2026-01-25,2026-03-08
