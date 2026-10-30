@@ -138,13 +138,4 @@ Os IDs de canais foram pseudonimizados com SHA-256 durante a coleta. O snapshot 
 
 Comentários do YouTube são uma amostra autoselecionada e não representam toda a torcida. A preferência clubística dos usuários é desconhecida; seleção de vídeos, algoritmos da plataforma e diferenças de volume entre partidas influenciam os resultados. Sentimento automático, temas e entidades também estão sujeitos a erro, sobretudo com sarcasmo, ironia, provocações e linguagem do futebol. As conclusões são observacionais e não demonstram causalidade.
 
-## Checklist de entrega
 
-- [x] notebook principal executado, sem células com erro;
-- [x] introdução, questão de pesquisa, metodologia, resultados, limitações e conclusão;
-- [x] dados brutos, tratados e referências organizados por finalidade;
-- [x] tabelas, figuras e redes exportadas;
-- [x] dependências e configuração documentadas;
-- [x] credenciais fora do versionamento;
-- [x] testes automatizados aprovados;
-- [x] árvore de trabalho limpa antes do envio.
