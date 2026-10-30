@@ -2,11 +2,20 @@
 secrets.json
 token.json
 .venv/
+venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .coverage
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
 data/raw/*.tmp
 outputs/collection_summary.json.tmp
-venv/
 
